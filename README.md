@@ -41,3 +41,15 @@ Entry-level project management positions are a great opportunity to get your foo
 - **Junior Project Manager:** Performs all aspects of being a project manager alongside a more experienced professional.
 
 - **Project Administrator:** Assists the rest of the project team with administrative tasks.
+
+- **Project/Program Assistant:** Supports team members working on a project and offers administrative support. May perform research or create training documents along with other jobs as assigned by program leaders.
+
+- **Project/Program Coordinator:** Participates in hands-on project work and administrative tasks. Works under a project manager to make sure projects are completed on time and within budget.
+
+- **Project Support Specialist:** Works alongside a project manager and team members to oversee assigned projects. May also be responsible for training and developing employees to perform designated tasks.
+
+##### Traditional project management roles
+
+Once you have gained some experience in introductory-level positions, you can explore traditional project management roles, such as:
+
+- **Project Manager:** Responsible for the initiating, planning, executing, monitoring, and closing of a project. Includes industry-specific titles like IT project manager, construction project manager, or engineering project manager, which utilize skills that are transferable among industries.
