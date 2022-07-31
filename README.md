@@ -74,6 +74,10 @@ Successfully implementing programs as a program manager can eventually make you 
 
 While project, program, and portfolio managers hold different types and levels of responsibility, they are all project managers. In Course 4 of this certificate program, you will learn more about differentiating projects, programs, and portfolios.
 
-[EBTy61fHRGSU8utXx-Rkdw_8a0eb610f69448eeb2c9969d86b70f92_Google_Readings_Stills_PGM_C6-Resume-Graphics-1-](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/EBTy61fHRGSU8utXx-Rkdw_8a0eb610f69448eeb2c9969d86b70f92_Google_Readings_Stills_PGM_C6-Resume-Graphics-1-.png?expiry=1659398400000&hmac=Gf3Mk4fR7s0qdk_A4kl110p41Z0fuA8vq7O3Dzp_htA)
+![EBTy61fHRGSU8utXx-Rkdw_8a0eb610f69448eeb2c9969d86b70f92_Google_Readings_Stills_PGM_C6-Resume-Graphics-1-](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/EBTy61fHRGSU8utXx-Rkdw_8a0eb610f69448eeb2c9969d86b70f92_Google_Readings_Stills_PGM_C6-Resume-Graphics-1-.png?expiry=1659398400000&hmac=Gf3Mk4fR7s0qdk_A4kl110p41Z0fuA8vq7O3Dzp_htA)
 
-- ***
+- **Program managers:** Manage a group of projects that are related or similar to one another and handle the coordination of these projects. They facilitate effective communication between individual project managers and provide support where necessary. They also help create and manage long-term goals for their organization.
+
+- **Portfolio managers:** Responsible for managing a group of related programs within the same organization. They coordinate various programs in order to ensure they are on track and that the organization is meeting its strategic initiatives. Portfolio managers look at all projects and programs within the organization and prioritize work as necessary.
+
+##### Operational management roles
