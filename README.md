@@ -53,3 +53,27 @@ Entry-level project management positions are a great opportunity to get your foo
 Once you have gained some experience in introductory-level positions, you can explore traditional project management roles, such as:
 
 - **Project Manager:** Responsible for the initiating, planning, executing, monitoring, and closing of a project. Includes industry-specific titles like IT project manager, construction project manager, or engineering project manager, which utilize skills that are transferable among industries.
+
+- **Project Analyst:** Moves a project along by sharing information, providing support through data analysis, and contributing to strategy and performance.
+
+- **Project Leader/Director:** Drives core decision-making and sets the direction for the project. Usually knowledgeable about the product or deliverable.
+
+- **Project Controller:** Primarily responsible for project planning. You are likely to see this job title in industries like engineering and construction.
+
+- **Technical Project Manager:** Conducts project planning and management for identified goals within a company. Ensures that projects are completed to the requirements within a defined time frame and budget.
+
+- **Project Management Office (PMO) Analyst:** Manages the progress of complex projects to ensure timely execution and completion.
+
+##### Program and portfolio management roles
+
+As you have learned, project managers are responsible for the day-to-day management of projects. They shepherd projects from start to finish and serve as a guide for their team. Project managers must apply the right tools, techniques, and processes to complete the project successfully, on time, and within budget.
+
+After you have carried out projects successfully and feel you are ready for a step up in responsibility, a **program** manager position may be the next step for you. While a project is one single-focused endeavor, a program is a collection of projects. Program managers are responsible for managing many projects. At Google, all project managers are called program managers because they manage multiple projects simultaneously.
+
+Successfully implementing programs as a program manager can eventually make you a great fit for more senior positions, such as a senior program manager or a portfolio manager. A **portfolio** is a collection of projects and programs across an entire organization. Portfolio managers are responsible for portfolios of projects or programs for one client. Over the course of your career, you might progress from project manager to program manager to portfolio manager roles.
+
+While project, program, and portfolio managers hold different types and levels of responsibility, they are all project managers. In Course 4 of this certificate program, you will learn more about differentiating projects, programs, and portfolios.
+
+[EBTy61fHRGSU8utXx-Rkdw_8a0eb610f69448eeb2c9969d86b70f92_Google_Readings_Stills_PGM_C6-Resume-Graphics-1-](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/EBTy61fHRGSU8utXx-Rkdw_8a0eb610f69448eeb2c9969d86b70f92_Google_Readings_Stills_PGM_C6-Resume-Graphics-1-.png?expiry=1659398400000&hmac=Gf3Mk4fR7s0qdk_A4kl110p41Z0fuA8vq7O3Dzp_htA)
+
+- ***
