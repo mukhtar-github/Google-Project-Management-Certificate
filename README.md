@@ -81,3 +81,29 @@ While project, program, and portfolio managers hold different types and levels o
 - **Portfolio managers:** Responsible for managing a group of related programs within the same organization. They coordinate various programs in order to ensure they are on track and that the organization is meeting its strategic initiatives. Portfolio managers look at all projects and programs within the organization and prioritize work as necessary.
 
 ##### Operational management roles
+
+In operational management roles, you will get the opportunity to experience several different departments and how they interact and operate. Operational management roles allow you to work alongside peers and management from various business segments, giving you an appreciation for what each segment does on a daily basis. Key elements of project management include making sure a project is on budget and on schedule. This course, and your experience as a project manager, will give you the tools to be able to apply those skills to running a business. Some operational management positions include:
+
+- **Operations Analyst:** Manages and coordinates research, investigates workflows, creates business procedures, and recommends changes to improve the project and company.
+
+- **Operations Manager:** Oversees strategic decision-making and rolls out plans of action based on financial, schedule, and resource reporting.
+
+- **Chief Operating Officer:** Responsible for overseeing the day-to-day administrative and operational functions of a business.
+
+##### Agile roles
+
+We will discuss the Agile project management approach in depth later, but here are a couple of the positions you may see that are related to that approach:
+
+- **Scrum Master:** Coordinates and guides the Scrum team. Knowledgeable in Agile framework and Scrum and is able to teach others about the Scrum values and principles. May also be listed as a Technical Program Manager or Technical Project Manager.
+
+- **Product Owner:** Drives the direction of product development and progress.
+
+##### Industry-specific management roles
+
+As you search for project management roles, you may see positions with titles like “engineering project manager” or “construction project manager.” Keep in mind that the skills you learn in one industry can be applied to another industry. For example, you may have experience as a software engineer but are interested in pursuing a career in project management. You will be able to apply what you’ve learned working in a technical field, as well as with the skills you have picked up in this certification course, to a project manager position in multiple industries. Having experience working on a team to achieve a task and understanding how to execute an effort on schedule and on budget are aspects of your professional experience—combined with your project management knowledge—that make it possible for you to move between industries.
+
+#### Key takeaway
+
+Project management is a career path with a great deal of potential!
+
+With each step along your career path, you are building yourself up to be a significant contributor to any company. We have discussed a number of possible job titles for you to search for when you start exploring project management roles. Regardless of the industry in which you currently work, you have gained transferable skills. Transferable skills are abilities that can be used in many different jobs and career paths. Your transferable skills can likely be utilized in project management roles in many other industries.
