@@ -135,3 +135,15 @@ Similarly, many job descriptions list the specific skills they require candidate
 Take a look at the skills required for this position. The job description lists each of the terms that we talked about or a variation of these terms.
 
 ![AKpnH47QRreqZx-O0Ba32A_d0b12f26b7df4e6d86217f0215fd6b35_Screen-Shot-2021-02-23-at-5.43.33-PM](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/AKpnH47QRreqZx-O0Ba32A_d0b12f26b7df4e6d86217f0215fd6b35_Screen-Shot-2021-02-23-at-5.43.33-PM.png?expiry=1659484800000&hmac=iHO-dGEPAyqZAKzP_3RrKz9lMdbR9TmVnOtYxsxsJpo)
+
+You may also come across positions in your search that do not include the title “Project Manager” or any of the job titles we previously discussed, but you shouldn’t rule these positions out. In many cases, the job description will include project management experience and expectations, but the position may be called something else entirely.
+
+Look at some of the job responsibilities required for a position titled “Operations Associate.” This position is a type of project manager. You will find that most project management-related job descriptions call for the **ability to plan, organize, monitor, and execute tasks**—all skills you will be able to do once you complete this certification.
+
+![MW-ogrvPR8GvqIK7zzfBYA_fd83639f8abc4fec8dd68a1ff7722c58_Screen-Shot-2021-02-23-at-5.42.50-PM](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/MW-ogrvPR8GvqIK7zzfBYA_fd83639f8abc4fec8dd68a1ff7722c58_Screen-Shot-2021-02-23-at-5.42.50-PM.png?expiry=1659484800000&hmac=aecY0K7dFQkFD2JcKnqfv6vrW9CsiVMqn-g_R6S8aqo)
+
+#### Common project management buzzwords
+
+Including buzzwords and skills in your job search can help you find jobs that are ideal for you and your skill set. Once you have found a position you want to apply for, listing buzzwords and skills that are relevant to the position can also help recruiters and hiring managers identify you as a qualified and knowledgeable candidate.
+
+Some common project management-related buzzwords and skills you could include on your resume are:
