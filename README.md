@@ -147,3 +147,85 @@ Look at some of the job responsibilities required for a position titled “Opera
 Including buzzwords and skills in your job search can help you find jobs that are ideal for you and your skill set. Once you have found a position you want to apply for, listing buzzwords and skills that are relevant to the position can also help recruiters and hiring managers identify you as a qualified and knowledgeable candidate.
 
 Some common project management-related buzzwords and skills you could include on your resume are:
+
+- Analytical
+
+- Assertive
+
+- Assessing outcomes
+
+- Assessing progress
+
+- Attention to detail
+
+- Conflict resolution
+
+- Collaborative
+
+- Coordination
+
+- Communication
+
+- Development
+
+- Evaluation
+
+- Executing plans
+
+- Financial analysis
+
+- Impact assessment
+
+- Leadership engagement
+
+- Managing meetings
+
+- Managing client expectations
+
+- Managing conflicts
+
+- Managing relationships with stakeholders
+
+- Managing vendors
+
+- Meeting deadlines
+
+- Monitoring
+
+- Multitasking
+
+- Planning
+
+- Prioritizing
+
+- Problem-solving
+
+- Process development
+
+- Process improvement
+
+- Project coordination
+
+- Project implementation
+
+- Project initialization
+
+- Project planning
+
+- Project reporting
+
+- Quality control
+
+- Risk assessment
+
+- Risk management
+
+- Solution development
+
+- Strategic planning
+
+- Strong interpersonal skills
+
+- Strong verbal communication
+
+- Strong written communication
