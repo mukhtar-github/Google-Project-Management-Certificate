@@ -229,3 +229,7 @@ Some common project management-related buzzwords and skills you could include on
 - Strong verbal communication
 
 - Strong written communication
+
+#### Key takeaway
+
+Job searching for your first (or next) project management position can be easier if you enter the right search terms. Search for the skills you’re learning throughout this project management certificate program or skills you’ve acquired in your current or previous positions. These terms will help you determine if you have found a potential match. As you start your project management career, don’t let the requirement for project management experience stop you from applying for project management-adjacent roles. Once you have completed this certification course, you'll see how many skills you already have that can be translated and correlated to a project management role.
