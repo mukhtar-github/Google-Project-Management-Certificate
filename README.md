@@ -444,7 +444,7 @@ You may need to experiment with different organizational approaches to determine
 
 All project managers need the ability to adapt and overcome changes and challenges. Let’s further explore why flexibility is such a critical project management skill and discuss how it can help prepare your team for change, mitigate risks, and handle ambiguity.
 
-##### Flexible planning
+**Flexible planning**
 
 Change is inevitable, and the more flexible you are as a project manager, the more successful you will be throughout your career. These flexible planning strategies can help you manage your project during times of unpredictability:
 
@@ -454,7 +454,7 @@ Change is inevitable, and the more flexible you are as a project manager, the mo
 
 - **Calculate “float” in your schedule.** Float, or slack, refers to the amount of time you can wait to begin a task before it impacts the project schedule and threatens the project outcome. Identifying float in your schedule can help with resource management, scheduling, and keeping your project on track. You will learn more about calculating float in a later course, when we discuss creating a critical path for your project tasks.
 
-##### Handling ambiguity
+**Handling ambiguity**
 
 Ambiguity can be a big challenge in managing projects. Project managers often face ambiguity in goals, requirements, schedules, vision, or other areas related to the project. Your team will look to you to lead during times of ambiguity and change, and flexibility is especially important during these instances. Here are some different ways to help your team deal with ambiguity:
 
