@@ -661,3 +661,5 @@ Each phase of the project life cycle has its own significance and reason for exi
 - Executing project tasks and addressing any issues that arise
 
 - Closing out your project to capture any lessons learned.
+
+As you continue through this course, we will walk through each project phase in more detail.
