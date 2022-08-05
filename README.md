@@ -583,3 +583,83 @@ Now that we've discussed the project life cycle, we're going to explore some of 
 ### Phases in action: Executing and closing
 
 We just learned about the core tasks that need to be completed in the first two phases of the project life cycle, initiating the project and making plans. Now, it's time to put your plans into action. Remember, it's not your job to actually do all the tasks. Your primary job as the project manager is to manage the progress of the project as a whole. This means you'll oversee your team's efforts and make sure everyone understands what's expected of them, what tasks need to be done, and how and when to complete those tasks. It's also your job to help remove any obstacles and to alert the right people if it looks like there might be a delay to the project. This means you'll need to communicate with your team, and anyone else involved in your project through meetings, written communications like memos, emails or internal chat tools, and other working documents like task reports. Quick pro tip, if in doubt, err on the side of overcommunication. As your project progresses you'll make adjustments to the schedule, budget, and allocation of resources, clearly communicating updates all along the way. When all the tasks are complete and you've met the project goal, it's time to close the project. This phase is usually overlooked because it's easy to assume that once the project goal has been delivered, everyone can move on. But hold up, there's still a lot that needs to be done. First, check to make sure all tasks have been completed, including any work that was added along the way. Be sure any outstanding invoices have been paid, resources are returned and accounted for, and project documentation has been submitted. Next, and this is very important, get confirmation that the final outcome of your project is acceptable to the people you're delivering it to. It is crucial to your project's success that the person who asked you to manage the project is satisfied with the end result. Once your project has been accepted as meeting its goals, take some time to reflect on what went well and maybe what didn't go so well. This reflection is usually called a retrospective, and it's a chance to note best practices and learn how to manage your project more effectively next time, even if everything went great. The notes from your retrospective are also valuable to the people or organization receiving the end result of the project. That's because they can use that information to inform decisions about their business the next time they consider a project. Now it's time to collect all the project documentation that you created or collected along the way, including all of your plans and reflections, and share the final results of your project with your stakeholders. Remember, stakeholders are people who are interested in and affected by the project's completion and success. Depending on the type of project, stakeholders could include a department or organization's management team, clients or customers of your product or service, users of your new tool or process, or even the community at large if you're planning a community town hall meeting. Pro tip, stakeholders play a huge role in the development, and success of your project. You'll learn a lot more about these key players later on. But for now, just know that they're like the VIPs of your project. Next, take some time to celebrate the effort your team invested in the project. Celebrations help people feel good about the work they've done, and think of the work as uplifting and rewarding because it truly is. Some ideas for small celebrations are a company or team-wide email, thanking the team and acknowledging individual efforts. Now for big projects, you may even consider a company party to celebrate the team and the project success. To wrap up, you and your team can formally move on from the project so that you can pursue new projects in the future. Well, as you can see, being a project manager is a lot of work, but it's very rewarding, and it's all, well, manageable when you follow through with the project life cycle. You can see how the organization, communication, and improvements you add to various areas of a project can make the entire team more effective and efficient, and you can have an impact on many areas of a project in a way that's greater than if you focused on any one task on the project. Similar to a coach with a sports team, even though you aren't actually playing a direct role in the game, your guidance, your communication, and your team-building can make the difference in a happy, high-performing, and successful team. In later courses we'll discuss each of these project phases, and you'll learn methods, techniques, and tools to help you. For now, we just want you to become familiar with the general project management process, and we'll share some of the terms and concepts used in the field that you'll need to know as you develop your project management skills. Up next, we'll introduce you to two of the more popular project methodologies, Waterfall and Agile.
+
+### Summary of the project phases
+
+The **project life cycle** is the path for your project from start to finish. Each project phase builds toward the subsequent phase and helps to create a structure for the project. To recap, the main phases of the project life cycle are: initiating the project, making a plan, executing and completing tasks, and closing the project.
+
+In this reading, we will summarize each phase of the project life cycle.
+
+![pAm6fZ7BQ8yJun2ewQPMXw_5068eb9038304767b5dce8f7ea8f20f5_C1M3L2R1](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/pAm6fZ7BQ8yJun2ewQPMXw_5068eb9038304767b5dce8f7ea8f20f5_C1M3L2R1.png?expiry=1659830400000&hmac=6vCjKPunSC0-c5S_NX51lsXxF3U_LOBd3nSFi9s50ww)
+
+**The project life cycle**
+
+**Initiate the project**
+
+- Who are the stakeholders?
+
+- What are the client’s or customer’s goals?
+
+- What is the purpose and mission of the project?
+
+- What are the measurable objectives for the team?
+
+- What is the project trying to improve?
+
+- When does this project need to be completed?
+
+- What skills and resources will the project require?
+
+- What will the project cost? What are the benefits?
+
+**Make a plan**
+
+In this phase, make a plan to get your project from start to finish.
+
+- Create a detailed project plan. What are the major milestones? What tasks or deliverables make up each milestone?
+
+- Build out the schedule so you can properly manage the resources, budget, materials, and timeline. Here, you will create an itemized budget.
+
+**Execute the project**
+
+In this phase, put all of your hard work from the first two phases into action.
+
+- Monitor your project team as they complete project tasks.
+
+- Break down any barriers that would slow or stop the team from completing tasks.
+
+- Help keep the team aware of schedule and deliverable expectations.
+
+- Address weaknesses in your process or examine places where your team may need additional training to meet the project’s goals.
+
+- Adapt to changes in the project as they arise.
+
+**Close the project**
+
+In this phase, close out the project.
+
+- Identify that your team has completed all of the requested outcomes.
+
+- Release your team so they can support other projects within the company.
+
+- Take time with your team to celebrate your successes!
+
+- Pass off all remaining deliverables and get stakeholder approval.
+
+- Document the lessons you and your team learned during the project.
+
+- Reflect on ways to improve in the future.
+
+**Key takeaway**
+
+Each phase of the project life cycle has its own significance and reason for existing. By following the project life cycle, you’re ensuring that you are:
+
+- Capturing the expectations of your customer
+
+- Setting your project up for success with a plan
+
+- Executing project tasks and addressing any issues that arise
+
+- Closing out your project to capture any lessons learned.
+
+As you continue through this course, we will walk through each project phase in more detail.
