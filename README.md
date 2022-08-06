@@ -810,4 +810,4 @@ With so many methodologies available, there are many options that would work wel
 
 Choosing an approach that works best for the project, the organization, and the team takes time and practice. You’ll learn more about how to choose a project management approach throughout this certificate program. In the meantime, take a look at how this article breaks down common methodologies and when (or when not) to use them:
 
-![Which project management methodologies should you use?](https://www.teamwork.com/project-management-guide/project-management-methodologies/)
+[Which project management methodologies should you use?](https://www.teamwork.com/project-management-guide/project-management-methodologies/)
