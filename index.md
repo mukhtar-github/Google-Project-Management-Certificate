@@ -36,7 +36,7 @@ You are about to start on your path to securing a high-demand position as a proj
 
 #### Project management job categories and common roles
 
-##### Introductory-level project management roles
+#### Introductory-level project management roles
 
 Entry-level project management positions are a great opportunity to get your foot in the door and learn the ins and outs of how a company operates and manages projects. The lessons you learn from these experiences are extremely valuable to your growth in project management. Some entry-level project management positions include:
 
@@ -50,7 +50,7 @@ Entry-level project management positions are a great opportunity to get your foo
 
 - **Project Support Specialist:** Works alongside a project manager and team members to oversee assigned projects. May also be responsible for training and developing employees to perform designated tasks.
 
-##### Traditional project management roles
+#### Traditional project management roles
 
 Once you have gained some experience in introductory-level positions, you can explore traditional project management roles, such as:
 
@@ -66,7 +66,7 @@ Once you have gained some experience in introductory-level positions, you can ex
 
 - **Project Management Office (PMO) Analyst:** Manages the progress of complex projects to ensure timely execution and completion.
 
-##### Program and portfolio management roles
+#### Program and portfolio management roles
 
 As you have learned, project managers are responsible for the day-to-day management of projects. They shepherd projects from start to finish and serve as a guide for their team. Project managers must apply the right tools, techniques, and processes to complete the project successfully, on time, and within budget.
 
@@ -82,7 +82,7 @@ While project, program, and portfolio managers hold different types and levels o
 
 - **Portfolio managers:** Responsible for managing a group of related programs within the same organization. They coordinate various programs in order to ensure they are on track and that the organization is meeting its strategic initiatives. Portfolio managers look at all projects and programs within the organization and prioritize work as necessary.
 
-##### Operational management roles
+**Operational management roles**
 
 In operational management roles, you will get the opportunity to experience several different departments and how they interact and operate. Operational management roles allow you to work alongside peers and management from various business segments, giving you an appreciation for what each segment does on a daily basis. Key elements of project management include making sure a project is on budget and on schedule. This course, and your experience as a project manager, will give you the tools to be able to apply those skills to running a business. Some operational management positions include:
 
@@ -92,7 +92,7 @@ In operational management roles, you will get the opportunity to experience seve
 
 - **Chief Operating Officer:** Responsible for overseeing the day-to-day administrative and operational functions of a business.
 
-##### Agile roles
+#### Agile roles
 
 We will discuss the Agile project management approach in depth later, but here are a couple of the positions you may see that are related to that approach:
 
@@ -100,7 +100,7 @@ We will discuss the Agile project management approach in depth later, but here a
 
 - **Product Owner:** Drives the direction of product development and progress.
 
-##### Industry-specific management roles
+#### Industry-specific management roles
 
 As you search for project management roles, you may see positions with titles like “engineering project manager” or “construction project manager.” Keep in mind that the skills you learn in one industry can be applied to another industry. For example, you may have experience as a software engineer but are interested in pursuing a career in project management. You will be able to apply what you’ve learned working in a technical field, as well as with the skills you have picked up in this certification course, to a project manager position in multiple industries. Having experience working on a team to achieve a task and understanding how to execute an effort on schedule and on budget are aspects of your professional experience—combined with your project management knowledge—that make it possible for you to move between industries.
 
@@ -110,7 +110,7 @@ Project management is a career path with a great deal of potential!
 
 With each step along your career path, you are building yourself up to be a significant contributor to any company. We have discussed a number of possible job titles for you to search for when you start exploring project management roles. Regardless of the industry in which you currently work, you have gained transferable skills. Transferable skills are abilities that can be used in many different jobs and career paths. Your transferable skills can likely be utilized in project management roles in many other industries.
 
-### Finding the perfect role
+#### Finding the perfect role
 
 Let's discuss how to search for a job in the project management field. It's no secret that job searching can be a challenge. Even the most detailed, specific job listings can leave you wondering what the company is really seeking in a candidate. Don't worry, we've all been there, and we're here to help you sort through the lingo and the confusion. The more job listings you find, the more buzzwords you'll likely notice, too— words like "data-driven," "team player," "self-starter." Understanding all the buzzwords in job listings will help figure out if a job is right for you. Up to now, we've discussed project management as a role, but many companies actually list it as a skill. Here's some more good news. You'll soon be qualified for a position as a project manager, and a position that lists project management as a skill. Here's the even better news. If you have the skills to manage projects, you'll be qualified for program manager or operational roles that require you to manage an end-to-end system or department, too, which asks for the same skill set. Now, let's check out different types of jobs that use your project management skills. When job hunting, keep your options open. As I just mentioned, you don't have to limit yourself to just project manager titles. There's lots of other titles you're qualified for, too. You'll know what's a good fit for you by reading the job descriptions, so cast a wide net. Depending on the field you choose, you might find roles like Operations Manager, Program Manager, Operations Associate, or Project Assistant. All of these could be a great fit for your skills. For example, let's say you're searching a job board for project management roles when you notice a Community Operations Manager role for a small city open up. The job title isn't project manager, but you'll notice that the job functions match your skill set, and your years of experience also match the job requirements. The job description may include a list of required skills like organizational management, strong planning and communication skills, budget preparation and monitoring. Sound familiar? Maybe you'll even start to notice that the job's responsibilities seem like tasks you've covered in this course, like creating monthly status reports, helping to implement new and necessary technologies, tracking work plans and performance metrics, assisting other members of the operations team on given projects, and ensuring timely responses to requests for information. These duties are nearly a perfect match for your project management skills, and there are plenty more listings like these two. How great is that? The skills that go into project management are used in all kinds of roles and professions. Believe it or not, we've all worked with or learned from a project manager at some point in the past. Can you guess who that is? It's your teachers! Think about it. Everything that goes into being a teacher takes project management skills: Designing a curriculum that's accessible to students with unique needs; managing a budget; communicating with others like parents, department heads, or school admins; developing processes to make things run efficiently in the classroom; and so on. For example, when I went for my first interview at Google, I highlighted my experience as the founder and advisor to a student leadership group. I told them about how I assembled and led a team of 20 students to plan and execute events like fundraisers, community gatherings, and academic assemblies for over 300 students during the academic year. I even kind of surprised myself, looking back at how much relevant project management experience I had. Now, I'm sure you'll think back on your own experiences and feel the same thing. One more thing to call out is networking. Networking is when you meet other people in a professional setting with the goal of learning, sharing knowledge, and creating new business connections. This plays a big role in job hunting, so it is a great tool to start learning and perfecting. The skills you learn here will prepare you for all kinds of project management jobs. Knowing how to search for jobs will make it even easier to match those skills with the best opportunities for you.
 
@@ -232,7 +232,7 @@ Some common project management-related buzzwords and skills you could include on
 
 - Strong written communication
 
-#### Key takeaway
+**Key takeaway**
 
 Job searching for your first (or next) project management position can be easier if you enter the right search terms. Search for the skills you’re learning throughout this project management certificate program or skills you’ve acquired in your current or previous positions. These terms will help you determine if you have found a potential match. As you start your project management career, don’t let the requirement for project management experience stop you from applying for project management-adjacent roles. Once you have completed this certification course, you'll see how many skills you already have that can be translated and correlated to a project management role.
 
