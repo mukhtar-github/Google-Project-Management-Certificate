@@ -76,7 +76,7 @@ Successfully implementing programs as a program manager can eventually make you 
 
 While project, program, and portfolio managers hold different types and levels of responsibility, they are all project managers. In Course 4 of this certificate program, you will learn more about differentiating projects, programs, and portfolios.
 
-![EBTy61fHRGSU8utXx-Rkdw_8a0eb610f69448eeb2c9969d86b70f92_Google_Readings_Stills_PGM_C6-Resume-Graphics-1-](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/EBTy61fHRGSU8utXx-Rkdw_8a0eb610f69448eeb2c9969d86b70f92_Google_Readings_Stills_PGM_C6-Resume-Graphics-1-.png?expiry=1659398400000&hmac=Gf3Mk4fR7s0qdk_A4kl110p41Z0fuA8vq7O3Dzp_htA)
+![Google_Readings_Stills_PGM_C6-Resume-Graphics-1](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/EBTy61fHRGSU8utXx-Rkdw_8a0eb610f69448eeb2c9969d86b70f92_Google_Readings_Stills_PGM_C6-Resume-Graphics-1-.png?expiry=1659398400000&hmac=Gf3Mk4fR7s0qdk_A4kl110p41Z0fuA8vq7O3Dzp_htA)
 
 - **Program managers:** Manage a group of projects that are related or similar to one another and handle the coordination of these projects. They facilitate effective communication between individual project managers and provide support where necessary. They also help create and manage long-term goals for their organization.
 
@@ -136,13 +136,13 @@ Similarly, many job descriptions list the specific skills they require candidate
 
 Take a look at the skills required for this position. The job description lists each of the terms that we talked about or a variation of these terms.
 
-![AKpnH47QRreqZx-O0Ba32A_d0b12f26b7df4e6d86217f0215fd6b35_Screen-Shot-2021-02-23-at-5.43.33-PM](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/AKpnH47QRreqZx-O0Ba32A_d0b12f26b7df4e6d86217f0215fd6b35_Screen-Shot-2021-02-23-at-5.43.33-PM.png?expiry=1659484800000&hmac=iHO-dGEPAyqZAKzP_3RrKz9lMdbR9TmVnOtYxsxsJpo)
+![Screen-Shot-2021-02-23-at-5.43.33-PM](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/AKpnH47QRreqZx-O0Ba32A_d0b12f26b7df4e6d86217f0215fd6b35_Screen-Shot-2021-02-23-at-5.43.33-PM.png?expiry=1659484800000&hmac=iHO-dGEPAyqZAKzP_3RrKz9lMdbR9TmVnOtYxsxsJpo)
 
 You may also come across positions in your search that do not include the title “Project Manager” or any of the job titles we previously discussed, but you shouldn’t rule these positions out. In many cases, the job description will include project management experience and expectations, but the position may be called something else entirely.
 
 Look at some of the job responsibilities required for a position titled “Operations Associate.” This position is a type of project manager. You will find that most project management-related job descriptions call for the **ability to plan, organize, monitor, and execute tasks**—all skills you will be able to do once you complete this certification.
 
-![MW-ogrvPR8GvqIK7zzfBYA_fd83639f8abc4fec8dd68a1ff7722c58_Screen-Shot-2021-02-23-at-5.42.50-PM](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/MW-ogrvPR8GvqIK7zzfBYA_fd83639f8abc4fec8dd68a1ff7722c58_Screen-Shot-2021-02-23-at-5.42.50-PM.png?expiry=1659484800000&hmac=aecY0K7dFQkFD2JcKnqfv6vrW9CsiVMqn-g_R6S8aqo)
+![Screen-Shot-2021-02-23-at-5.42.50-PM](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/MW-ogrvPR8GvqIK7zzfBYA_fd83639f8abc4fec8dd68a1ff7722c58_Screen-Shot-2021-02-23-at-5.42.50-PM.png?expiry=1659484800000&hmac=aecY0K7dFQkFD2JcKnqfv6vrW9CsiVMqn-g_R6S8aqo)
 
 #### Common project management buzzwords
 
@@ -274,7 +274,7 @@ You have learned that project managers can prioritize, delegate, and effectively
 - Managing the project
 - Breaking down barriers
 
-![gDsnaaA9Qju7J2mgPRI7uw_44e1b4346b6f46b1b75b357a808399f0_BpBtbq8hRtqQbW6vIXbagw_cc2fe37c90734d0994a9c7b51985d86c_Focusing](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/gDsnaaA9Qju7J2mgPRI7uw_44e1b4346b6f46b1b75b357a808399f0_BpBtbq8hRtqQbW6vIXbagw_cc2fe37c90734d0994a9c7b51985d86c_Focusing.png?expiry=1659571200000&hmac=mtW_CWnpfX4pfOW_LAI1n70pJVlvfm--TrLnX9Na0Rs)
+![Focusing](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/gDsnaaA9Qju7J2mgPRI7uw_44e1b4346b6f46b1b75b357a808399f0_BpBtbq8hRtqQbW6vIXbagw_cc2fe37c90734d0994a9c7b51985d86c_Focusing.png?expiry=1659571200000&hmac=mtW_CWnpfX4pfOW_LAI1n70pJVlvfm--TrLnX9Na0Rs)
 
 Customers are always a key element to success in any business. There is no exception to that in the field of project management. In project management, the word “customer” refers to a person or an organization that defines the requirements of the project and sets important guidelines, such as budget and deadlines. In projects, customers can be internal or external. Internal customers are stakeholders within your organization, such as management, project team members, resource managers, and other organizational departments. External customers are customers outside of your organization, such as clients, contractors, suppliers, and consumers.
 
