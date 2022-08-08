@@ -36,7 +36,7 @@ You are about to start on your path to securing a high-demand position as a proj
 
 #### Project management job categories and common roles
 
-##### Introductory-level project management roles
+#### Introductory-level project management roles
 
 Entry-level project management positions are a great opportunity to get your foot in the door and learn the ins and outs of how a company operates and manages projects. The lessons you learn from these experiences are extremely valuable to your growth in project management. Some entry-level project management positions include:
 
@@ -50,7 +50,7 @@ Entry-level project management positions are a great opportunity to get your foo
 
 - **Project Support Specialist:** Works alongside a project manager and team members to oversee assigned projects. May also be responsible for training and developing employees to perform designated tasks.
 
-##### Traditional project management roles
+#### Traditional project management roles
 
 Once you have gained some experience in introductory-level positions, you can explore traditional project management roles, such as:
 
@@ -66,7 +66,7 @@ Once you have gained some experience in introductory-level positions, you can ex
 
 - **Project Management Office (PMO) Analyst:** Manages the progress of complex projects to ensure timely execution and completion.
 
-##### Program and portfolio management roles
+#### Program and portfolio management roles
 
 As you have learned, project managers are responsible for the day-to-day management of projects. They shepherd projects from start to finish and serve as a guide for their team. Project managers must apply the right tools, techniques, and processes to complete the project successfully, on time, and within budget.
 
@@ -76,13 +76,13 @@ Successfully implementing programs as a program manager can eventually make you 
 
 While project, program, and portfolio managers hold different types and levels of responsibility, they are all project managers. In Course 4 of this certificate program, you will learn more about differentiating projects, programs, and portfolios.
 
-![EBTy61fHRGSU8utXx-Rkdw_8a0eb610f69448eeb2c9969d86b70f92_Google_Readings_Stills_PGM_C6-Resume-Graphics-1-](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/EBTy61fHRGSU8utXx-Rkdw_8a0eb610f69448eeb2c9969d86b70f92_Google_Readings_Stills_PGM_C6-Resume-Graphics-1-.png?expiry=1659398400000&hmac=Gf3Mk4fR7s0qdk_A4kl110p41Z0fuA8vq7O3Dzp_htA)
+![Google_Readings_Stills_PGM_C6-Resume-Graphics-1](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/EBTy61fHRGSU8utXx-Rkdw_8a0eb610f69448eeb2c9969d86b70f92_Google_Readings_Stills_PGM_C6-Resume-Graphics-1-.png?expiry=1659398400000&hmac=Gf3Mk4fR7s0qdk_A4kl110p41Z0fuA8vq7O3Dzp_htA)
 
 - **Program managers:** Manage a group of projects that are related or similar to one another and handle the coordination of these projects. They facilitate effective communication between individual project managers and provide support where necessary. They also help create and manage long-term goals for their organization.
 
 - **Portfolio managers:** Responsible for managing a group of related programs within the same organization. They coordinate various programs in order to ensure they are on track and that the organization is meeting its strategic initiatives. Portfolio managers look at all projects and programs within the organization and prioritize work as necessary.
 
-##### Operational management roles
+#### Operational management roles
 
 In operational management roles, you will get the opportunity to experience several different departments and how they interact and operate. Operational management roles allow you to work alongside peers and management from various business segments, giving you an appreciation for what each segment does on a daily basis. Key elements of project management include making sure a project is on budget and on schedule. This course, and your experience as a project manager, will give you the tools to be able to apply those skills to running a business. Some operational management positions include:
 
@@ -92,7 +92,7 @@ In operational management roles, you will get the opportunity to experience seve
 
 - **Chief Operating Officer:** Responsible for overseeing the day-to-day administrative and operational functions of a business.
 
-##### Agile roles
+#### Agile roles
 
 We will discuss the Agile project management approach in depth later, but here are a couple of the positions you may see that are related to that approach:
 
@@ -100,7 +100,7 @@ We will discuss the Agile project management approach in depth later, but here a
 
 - **Product Owner:** Drives the direction of product development and progress.
 
-##### Industry-specific management roles
+#### Industry-specific management roles
 
 As you search for project management roles, you may see positions with titles like “engineering project manager” or “construction project manager.” Keep in mind that the skills you learn in one industry can be applied to another industry. For example, you may have experience as a software engineer but are interested in pursuing a career in project management. You will be able to apply what you’ve learned working in a technical field, as well as with the skills you have picked up in this certification course, to a project manager position in multiple industries. Having experience working on a team to achieve a task and understanding how to execute an effort on schedule and on budget are aspects of your professional experience—combined with your project management knowledge—that make it possible for you to move between industries.
 
@@ -136,13 +136,13 @@ Similarly, many job descriptions list the specific skills they require candidate
 
 Take a look at the skills required for this position. The job description lists each of the terms that we talked about or a variation of these terms.
 
-![AKpnH47QRreqZx-O0Ba32A_d0b12f26b7df4e6d86217f0215fd6b35_Screen-Shot-2021-02-23-at-5.43.33-PM](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/AKpnH47QRreqZx-O0Ba32A_d0b12f26b7df4e6d86217f0215fd6b35_Screen-Shot-2021-02-23-at-5.43.33-PM.png?expiry=1659484800000&hmac=iHO-dGEPAyqZAKzP_3RrKz9lMdbR9TmVnOtYxsxsJpo)
+![Screen-Shot-2021-02-23-at-5.43.33-PM](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/AKpnH47QRreqZx-O0Ba32A_d0b12f26b7df4e6d86217f0215fd6b35_Screen-Shot-2021-02-23-at-5.43.33-PM.png?expiry=1659484800000&hmac=iHO-dGEPAyqZAKzP_3RrKz9lMdbR9TmVnOtYxsxsJpo)
 
 You may also come across positions in your search that do not include the title “Project Manager” or any of the job titles we previously discussed, but you shouldn’t rule these positions out. In many cases, the job description will include project management experience and expectations, but the position may be called something else entirely.
 
 Look at some of the job responsibilities required for a position titled “Operations Associate.” This position is a type of project manager. You will find that most project management-related job descriptions call for the **ability to plan, organize, monitor, and execute tasks**—all skills you will be able to do once you complete this certification.
 
-![MW-ogrvPR8GvqIK7zzfBYA_fd83639f8abc4fec8dd68a1ff7722c58_Screen-Shot-2021-02-23-at-5.42.50-PM](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/MW-ogrvPR8GvqIK7zzfBYA_fd83639f8abc4fec8dd68a1ff7722c58_Screen-Shot-2021-02-23-at-5.42.50-PM.png?expiry=1659484800000&hmac=aecY0K7dFQkFD2JcKnqfv6vrW9CsiVMqn-g_R6S8aqo)
+![Screen-Shot-2021-02-23-at-5.42.50-PM](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/MW-ogrvPR8GvqIK7zzfBYA_fd83639f8abc4fec8dd68a1ff7722c58_Screen-Shot-2021-02-23-at-5.42.50-PM.png?expiry=1659484800000&hmac=aecY0K7dFQkFD2JcKnqfv6vrW9CsiVMqn-g_R6S8aqo)
 
 #### Common project management buzzwords
 
