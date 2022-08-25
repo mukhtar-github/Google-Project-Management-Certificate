@@ -1276,3 +1276,51 @@ You will learn how the program is structured, understand the significance of a p
 Hi there, welcome. This course is all about initiating a project successfully. If you haven't gone through our foundational course yet, we recommend checking it out. It covers the foundations of project management and contains lots of helpful information for anyone wanting to start a career in this field. There are lots of people around the world like you who are hoping to learn the skills to get a project management role. Maybe you prefer to take a specialized certification rather than a four-year degree. Maybe you're looking for an affordable way to stand out among competition. Maybe you are interested in changing your career. Whatever your reason for being here, we're glad you've joined us. This program is rooted in the belief that a strong foundation in project management can help anyone start a great career as a project manager.
 
 Before we begin this course, let me introduce myself. My name is JuAnne, and I'll be your instructor for this course. As a Senior Program Manager at Google for the past eight years, I have worked on cross-functional projects involving product managers, software engineers, user experience designers, network operations, customer support, and more to build software used at Google and used by Google Cloud customers. I began my career working as a liaison between customers and engineers, documenting requirements on software development projects. As I became involved in larger projects, I started to manage the timelines of the projects and coordinate the work of the different teams that had to get involved to finish the project. Before I knew it, I was the de facto project manager. I have accumulated my knowledge through formal and informal training, finding practical application in finance, insurance, and tech companies. I'm super excited to be sharing with you more about the project management discipline. During this course, you'll learn all the steps for kicking off a project. We'll start with an overview of initiation, which is the phase that allows ideas to come together and form the beginnings of a plan for a project. You identify the individual components of initiation like the project scope, goals, and deliverables. You'll also learn how to measure the success of a project. This is a super important piece of the puzzle. After all, you want to be able to meet or exceed all of the requirements for a successful project, right? Later, we'll talk about how to identify stakeholders. Stakeholders have a direct interest in the project's completion and success. We'll teach you about some really helpful tools you can use to define project roles and responsibilities and more tools and resources you typically need to complete the work of a project. Finally, we'll introduce documentation that can help your team prepare for project kickoff. Exciting, right? The skills you learn in this course will help you start projects of your own. We can't wait to get into these topics with you. So let's get started. Meet me in the next video.
+
+### Course 2 overview
+
+Hello! Welcome to the second of the six courses in the Google Project Management Certificate program.
+
+![C_LQVkGjTwKy0FZBoz8CTA_34db99f6f5e749739dfdff87228de9dd_course6overview_icons_2-1-](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/C_LQVkGjTwKy0FZBoz8CTA_34db99f6f5e749739dfdff87228de9dd_course6overview_icons_2-1-.png?expiry=1661558400000&hmac=2z6uXC2lKP8db19ziLRoErsRSBWpW7phNfqDoNfFb3g)
+
+This course will teach you how to set the stage for a successful project. You will learn about stakeholders, their level of influence, and how to mobilize and manage them, as well as tackle tasks to identify project scope, goals, deliverables, and success criteria. You will learn how to use tools like RACI (Responsible, Accountable, Consulted, and Informed) charts, stakeholder analysis, and project charters to help you set project expectations. You will also familiarize yourself with setting SMART (Specific, Measurable, Attainable, Relevant, and Time-bound) goals to help you see the full scope of a project, determine its feasibility, and clearly define what project success will look like in concrete terms. Current Google project managers will continue to instruct and provide you with hands-on approaches for accomplishing these tasks, while implementing the right tools and resources for the job.
+
+In this reading, you will learn about the Project Management Certificate program structure and course functionality. If you already read this in the last course and don't need a refresher, feel free to skip it. If you’re new to the program, welcome! We’ve specifically designed the program you’re about to explore to help every type of learner successfully finish the certificate and get ready for a role in project management. No previous experience is required.
+
+**Become job-ready**
+
+In this Google Project Management Certificate program, you will learn the foundations of traditional project management and gain insight into Agile project management. According to the Project Management Institute, the project management labor force in seven project-oriented sectors is expected to grow by 33 percent, or nearly 22 million new jobs, by 2027\*. We are excited to join you on this journey as you learn the skills to begin a career in one of today’s most in-demand professions.
+
+Course 2 covers four weeks of material. Each week includes a series of lessons with many types of learning opportunities, such as:
+
+- **Videos** with a Google employee as your instructor.
+
+- **Readings** to introduce new ideas and case studies and to build on the concepts from the videos.
+
+- **Discussion forums** to explore course topics for better understanding and chat with peers in the program.
+
+- **In-video questions** that will pop up from time to time. They’re designed for you to check your learning as you go!
+
+- **Practice quizzes** to check your understanding and give you valuable feedback. **Practice activities** will provide you with a hands-on opportunity to apply skills you are working to master. You will assess your work by answering quiz questions about it or by comparing it to an exemplar built by our course team. _Note: these activities will not count towards your final course grade, but you are strongly encouraged to complete them as they will help prepare you for the graded quizzes and peer reviews._
+
+- **Graded quizzes** on video and reading content to measure your progress.
+
+- Ungraded **peer-review activities** on video and reading content that provide you the opportunity to practice applying skills you are working to master. Other learners in your course will see the work you submit and give you feedback based on a rubric.
+
+- **Graded peer-review activities** on video and reading content that assess your ability to apply skills you are working to master. Other learners in your course will grade your work and give you feedback based on a rubric.
+
+Everyone learns differently, so we designed this program to let you work at your own pace. Although your personalized deadlines start when you enroll, they’re just a guide. Feel free to move through the program however it works best for you. Keep in mind, you can always reset your deadlines by clicking the blue reset my deadlines button. There’s no penalty for late assignments. To earn your certificate, all you have to do is complete all of the work.
+
+**Tips**
+
+- We strongly recommend you take all six courses—and complete the items in each lesson—in the order they appear, as new information and concepts build on previous ones.
+
+- Make the most of the readings and additional resources throughout the program. They’re designed to support your learning.
+
+- If something is confusing, don’t hesitate to re-watch a video, go through a reading again, or ask your classmates for advice in the discussion forum.
+
+- Take part in all learning opportunities to gain as much knowledge and experience possible.
+
+Congratulations on choosing to take this first step toward becoming a part of the wonderful world of project management. Enjoy the journey!
+
+_Source: PMI (2017). Project Management Job Growth and Talent Gap 2017–2027._
