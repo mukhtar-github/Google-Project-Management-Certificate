@@ -1361,7 +1361,7 @@ Previously, you learned that a **cost-benefit analysis** is the process of addin
 
 **The benefits of a cost-benefit analysis**
 
-A cost-benefit analysis can minimize risks and maximize gains for projects and organizations. It can help you communicate clearly with stakeholders and executives and keep your project on track. Because this type of analysis uses objective data, it can help reduce biases and keep stakeholder self-interest from influencing decisions. 
+A cost-benefit analysis can minimize risks and maximize gains for projects and organizations. It can help you communicate clearly with stakeholders and executives and keep your project on track. Because this type of analysis uses objective data, it can help reduce biases and keep stakeholder self-interest from influencing decisions.
 
 Comparing a project’s benefits to its costs can help you make a strong business case to stakeholders and leadership and ensure your organization pursues the most profitable or useful projects. Organizations use cost-benefit analyses to reduce waste and invest their resources responsibly.
 
@@ -1371,13 +1371,13 @@ When you’re pursuing a project, the benefits should outweigh the costs. It’s
 
 To determine the benefits of a project, you might ask:
 
-- What value will this project create? 
+- What value will this project create?
 
-- How much money could this project save our organization? 
+- How much money could this project save our organization?
 
 - How much money will it bring in from existing customers?
 
-- How much time will it save? 
+- How much time will it save?
 
 - How will it improve the customer experience?
 
@@ -1393,9 +1393,9 @@ And to determine the costs of a project, consider questions such as:
 
 You might also consider questions about **intangible benefits.** These are gains that are not quantifiable, such as:
 
-- **Customer satisfaction.** Will the project increase customer retention, causing them to spend more on the company’s products or services? 
+- **Customer satisfaction.** Will the project increase customer retention, causing them to spend more on the company’s products or services?
 
-- **Employee satisfaction**. Is the project likely to improve employee morale, reducing turnover? 
+- **Employee satisfaction**. Is the project likely to improve employee morale, reducing turnover?
 
 - **Employee productivity**. Will the project reduce employee’s overtime hours, saving the company money?
 
@@ -1421,10 +1421,16 @@ The ROI comes to 0.58, or 58%. You consider this to be a strong ROI, so you deci
 
 **Key takeaway**
 
-Performing a cost-benefit analysis can help you and your stakeholders determine if it makes sense to take on a new project by evaluating if its benefits outweigh its costs. When conducting cost-benefit analyses for your prospective projects, you can use the guiding questions and ROI formula provided in this reading as a reference. 
+Performing a cost-benefit analysis can help you and your stakeholders determine if it makes sense to take on a new project by evaluating if its benefits outweigh its costs. When conducting cost-benefit analyses for your prospective projects, you can use the guiding questions and ROI formula provided in this reading as a reference.
 
 To learn more about performing a cost-benefit analysis, check out these articles:
 
 [Cost Benefit Analysis for Projects – A Step-by-Step Guide](https://www.projectmanager.com/blog/cost-benefit-analysis-for-projects-a-step-by-step-guide)
 
 [Cost Benefit or Benefit Cost Analysis](https://pmstudycircle.com/cost-benefit-or-benefit-cost-analysis/)
+
+### Wrap-up
+
+Nice work! You're on your way to becoming a great candidate for roles in project management. We're so glad you've stuck with us, and we hope you're proud of the progress you've made so far.
+
+In the last few videos, we've given you a primer on kicking off a project successfully. To recap, you learned more about initiation,the first phase of the project life cycle. Hopefully, you're starting to see how important this phase is for the overall health of a project. As we talked about earlier, a lack of preparation during the initiation stage can lead to problems later on in the project life cycle, like a budget shortage, a missed deadline, or too few teammates to complete the work. But with early planning, you can set your team up for success. We also introduced you to the major factors you should consider during the initiation phase, including goals, scope, deliverables, success criteria, stakeholders and resources. All of these come together in the early plans for a project and are documented in a project charter. Now that you understand the basic elements of initiation, let's dive deeper. Next up, we'll talk about identifying goals and deliverables and learn more about measurement and success criteria. You're doing great, and we'll see you soon.
