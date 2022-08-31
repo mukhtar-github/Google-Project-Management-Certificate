@@ -1355,3 +1355,77 @@ I'm meeting with the stakeholders, I'm trying to understand what they're trying 
 
 I reviewed it and immediately realized that they were so far off. They had not discussed the topic with any of my team members or myself, and they were day minus one from launching the feature. It was a total miss. It really illustrates the point about when you initiate a project, you can't invest enough time in meeting with stakeholders, meeting with your colleagues, listening to them—actively listening. Someone taught me recently the value of building that "listening to learn" muscle. And in the project initiation phase, to me, that is such a valuable talent, there are those that have it, there are those that have learned it, and there those who will never do it. And I believe it's a trainable skill, but it requires you to really slow down and look at the landscape in front of you.
 
+### Performing a cost-benefit analysis
+
+Previously, you learned that a **cost-benefit analysis** is the process of adding up the expected value of a project—the benefits—and comparing them to the dollar costs. In this reading, we will discuss the benefits of conducting a cost-benefit analysis, guiding questions to help you and your stakeholders conduct one, and how to calculate return on investment (ROI).
+
+**The benefits of a cost-benefit analysis**
+
+A cost-benefit analysis can minimize risks and maximize gains for projects and organizations. It can help you communicate clearly with stakeholders and executives and keep your project on track. Because this type of analysis uses objective data, it can help reduce biases and keep stakeholder self-interest from influencing decisions. 
+
+Comparing a project’s benefits to its costs can help you make a strong business case to stakeholders and leadership and ensure your organization pursues the most profitable or useful projects. Organizations use cost-benefit analyses to reduce waste and invest their resources responsibly.
+
+**Guiding questions for a cost-benefit analysis**
+
+When you’re pursuing a project, the benefits should outweigh the costs. It’s important for you and your stakeholders to consider questions like the ones that follow early on, while you prepare the proposal.
+
+To determine the benefits of a project, you might ask:
+
+- What value will this project create? 
+
+- How much money could this project save our organization? 
+
+- How much money will it bring in from existing customers?
+
+- How much time will it save? 
+
+- How will it improve the customer experience?
+
+And to determine the costs of a project, consider questions such as:
+
+- How much time will people have to spend on this project?
+
+- What are the one-time costs?
+
+- Are there any ongoing costs?
+
+- What about long-term costs?
+
+You might also consider questions about **intangible benefits.** These are gains that are not quantifiable, such as:
+
+- **Customer satisfaction.** Will the project increase customer retention, causing them to spend more on the company’s products or services? 
+
+- **Employee satisfaction**. Is the project likely to improve employee morale, reducing turnover? 
+
+- **Employee productivity**. Will the project reduce employee’s overtime hours, saving the company money?
+
+- **Brand perception.** Is the project likely to improve the company’s brand perception and recognition, attracting more customers or providing a competitive advantage?
+
+You can also flip these questions to consider **intangible costs**. These are costs that are not quantifiable. For example, might the project put customer retention, employee satisfaction, or brand perception at risk?
+
+When assigning values to tangible or intangible costs and benefits, you can reference similar past projects, conduct industry research, or consult with experts.
+
+**Calculating costs and benefits**
+
+The process of calculating costs and benefits is also called calculating return on investment, or ROI. There are many ways to determine a project’s ROI, but the easiest way is to compare the upfront and ongoing costs to its benefits over time.
+
+One common ROI formula is:
+
+![5WgkcOwJRaqoJHDsCRWqcg_17254e77f84d45a89ab513f21eef88d9_ROI-formula](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/5WgkcOwJRaqoJHDsCRWqcg_17254e77f84d45a89ab513f21eef88d9_ROI-formula.png?expiry=1662076800000&hmac=3uAHPijeSdYhSAejrlozrE0aA77tax64nKaWPGksJcI)
+
+In this formula, **G** represents the financial gains you expect from the project, and C represents the upfront and ongoing costs of your investment in the project.
+
+For example, imagine your project costs $6,000 up front plus $25 per month for 12 months. This equals $300 per year, but you estimate that the project will bring in $10,000 in revenue over the course of that year. Using the formula above, you calculate the ROI as: ($10,000 - $6,300) ÷ $6,300 = 0.58 = 58%
+
+The ROI comes to 0.58, or 58%. You consider this to be a strong ROI, so you decide to pursue the project.
+
+**Key takeaway**
+
+Performing a cost-benefit analysis can help you and your stakeholders determine if it makes sense to take on a new project by evaluating if its benefits outweigh its costs. When conducting cost-benefit analyses for your prospective projects, you can use the guiding questions and ROI formula provided in this reading as a reference. 
+
+To learn more about performing a cost-benefit analysis, check out these articles:
+
+[Cost Benefit Analysis for Projects – A Step-by-Step Guide](https://www.projectmanager.com/blog/cost-benefit-analysis-for-projects-a-step-by-step-guide)
+
+[Cost Benefit or Benefit Cost Analysis](https://pmstudycircle.com/cost-benefit-or-benefit-cost-analysis/)
+
