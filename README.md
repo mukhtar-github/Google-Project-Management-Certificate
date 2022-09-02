@@ -1462,3 +1462,21 @@ Here's an example from my own experience as a project manager. Our team had fini
 Once you have the goals nailed down, it's time to examine the project deliverables. Project deliverables are the products or services that are created for the customer, client, or project sponsor. In other words, a deliverable is what gets produced or presented at the end of a task, event, or process. Take the goal to improve customer response time. the deliverable for that goal could be the creation of email templates for responding to typical questions. Your Office Green project goal to increase revenues could have these two deliverables: launching the plant service and a finished website that highlights the new kinds of plants being offered. These are considered deliverables because they describe tangible outputs that show stakeholders how additional revenues will be generated.
 
 There are all sorts of project deliverable examples. A pretty common one is a report. When a goal is reached, you can visibly see the results documented in the chart, graph, or presentation. Deliverables help us quantify and realize the impact of the project. Just like needing well-defined goals, you need well-defined deliverables for pretty much the same reasons. Deliverables are usually decided upfront with the stakeholders or clients involved in the project. They hold everyone accountable and are typically a big part of achieving the goal. Make sure to ask questions about what the deliverable should be and have everyone share their vision and expectations of the deliverables so that you're all on the same page. Coming up, you'll practice the art of defining your goals even further following the SMART method. Enjoy.
+
+### Leading the initiation phase - Interactive infographic
+
+**Project Plant Pals: Initiation**
+
+In upcoming activities, you will work with stakeholders to set goals, roles, and deliverables for Project Plant Pals. Explore an infographic to find out more about what’s next in the initiation phase.
+
+**Understand the initiation phase**
+
+Select the label in each infographic to learn about the initiation phase for Project Plant Pals.
+
+- **Refine goals with stakeholders** First, you will meet with the Director of Product (the project sponsor) to discuss their aims for the project. To clarify these goals and keep the project on track, you’ll turn them into SMART goals.
+
+- **Assess stakeholder power and influence** Next, you’ll get to know some of your stakeholders and find out how they fit into the project. A stakeholder analysis and power grid will help you decide how best—and how often—to communicate with team members, investors, and more.
+
+- **Assign roles and responsibilities to promote the service** To promote Plant Pals, you’ll assemble teams to plan the marketing and sales strategy and redesign the website. You’ll use RACI charts to determine who should be responsible, accountable, consulted, and informed about various project tasks.
+
+- **Create a charter for the next stage of the project** As you wrap up the initiation phase, your focus will shift to internal operations. You’ll create a project charter to guide your team as they plan training, fulfillment, and delivery procedures for Plant Pals.
