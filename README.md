@@ -1550,3 +1550,59 @@ So for example if a rubric has 10 points, you need a minimum of 8 points to pass
 If a peer get something wrong, be sure to leave thoughtful, constructive feedback, so they understand why they didn't get full credit. That way, they'll know what to review and how to improve, so they can become better project managers. And don't worry, we'll give you some tips on how to leave constructive feedback for each activity. Peer review is a valuable tool, but unlike other assessments in the program, it may take some time to receive your grades. Remember that real people aren't as fast as computers, so we can take up to 10 days for grades to appear. Additionally, it can take some time before their assignments available for you to grade.
 
 Be patient, your peers may be working through the course at a different pace and remember you can always move on to other items in the course and come back if you need to. If for any reason you aren't able to access a peer submission or if a submission is incomplete, you can skip it and go to a different one. To learn how to do this, continue onto the optional reading. This reading will also tell you more about the peer review process and link you to helpful resources on topics like where to find your feedback and how to change your sharing settings and google docs. So be sure to check it out. Great. Now that you know more about some of the hands on activities to find throughout the program, you're ready to get started.
+
+### Optional: What to know about peer-graded assignments
+
+Throughout this course, you will complete a few different types of hands-on activities that let you apply your project management skills in “real-world” situations. These assignments ask you to think through common project management problems, find solutions, and create essential project management artifacts.
+
+For some of these assignments, you’ll need to submit your work for other learners to grade. This peer review process is a central part of the learning experience. It allows you to assess activities objectively against a set rubric, and compare your approach with those of your peers. It also gives you the option to give and receive qualitative feedback.
+
+You’ll need to complete peer-graded assignments in each course, so here’s what you need to know:
+
+**How peer-grading works**
+
+Before submitting the activity, you can check your work against a list of required items it should contain. Review this list carefully and revise your work before submitting, if necessary. This list matches the rubric your peers will use to grade your assignment (and that you will use to grade theirs).
+
+You should receive grades from at least two peers for each peer-graded assignment you complete. As a grader, you can review as many submissions as you like, but you must mark at least two assignments to move on in the course.
+
+**Optional feedback**
+
+When grading a peer’s assignment, you will have the option to give qualitative feedback. We encourage you to leave thoughtful comments about what they did well and where they can improve. This feedback can help you and your peers understand why you lost points for certain rubric items, so you can do better next time. Each assignment includes tips and examples of good feedback to help you write constructive comments.
+
+**Submitting your work**
+
+Most assignments involve submitting documents or spreadsheets for review. You have the option to submit your peer-graded assignments as either a URL (to a shared Google doc for example) or as a downloadable file (like a .docx file). To grade your work, your peer reviewers will access the shared doc or download the file you submitted.
+
+Coursera automatically assigns you a personalized deadline for each assignment in the course. Make note of this date and aim to submit your work on time—the earlier, the better. You are more likely to get timely feedback if you turn in your assignment a day or two before the deadline.
+
+**What to do if you don’t receive a grade**
+
+If you submitted your assignment as a URL, and no one has reviewed it after a few days, check your Google sharing settings to ensure “view” access is enabled. (Visit [this resource](https://www.coursera.org/learn/project-initiation-google/resources/FOW2Z) to learn more about file sharing.)
+
+If your share settings are correct and you still haven’t received a grade (or if you need assignments to grade yourself), you have two options:
+
+1. Check when you submitted your assignment. It can take up to a week for grades to appear, so you may need to wait a little longer. New graders and assignments should be available within a few days.
+
+2. Ask for reviewers (or items to review) in the discussion forums. Posts like this are common, so you can post your submission link for peers to review, or skim through forum posts to find items to grade.
+
+**What to do if you need a new assignment to grade**
+
+Sometimes, while you’re grading your peers, you may find you aren’t able to access or open a file. If you can’t grade an assignment for any reason, you can skip it and move on to a different submission. To do this, select Flag this submission (located at the upper-right corner of the prompt box in the grading pane):
+
+![qD994MNKRNS_feDDSkTUmA_9eb25b16dbad4ba496d827fa29302bf1_flag-submission](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/qD994MNKRNS_feDDSkTUmA_9eb25b16dbad4ba496d827fa29302bf1_flag-submission.png?expiry=1662336000000&hmac=3TsMylb6XY8YF14_q875xu13BTt9AGZ5bIvHSCOUWK8)
+
+You will be prompted to select a reason for the flag and provide an explanation in the text box:
+
+![dhremm49RNma3ppuPcTZjQ_87365a44c7924cda885c26d73585d7f1_flag-submission-access](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/dhremm49RNma3ppuPcTZjQ_87365a44c7924cda885c26d73585d7f1_flag-submission-access.png?expiry=1662336000000&hmac=EbSE76MZPrJt-cdUa5WtK8iRI3qLCtKVhJzkxKWW4Co)
+
+Once you select Send report, you'll receive a confirmation message and a different submission will appear below.
+
+**Note:** _Flagging a learner's submission as inaccessible will not affect their grade._
+
+**Need more help?**
+
+If you have questions on peer-graded assignments as you move through the courses, take a look at these Coursera Learner support articles:
+
+- [Submit peer reviewed assignments](https://www.coursera.support/s/article/208279926-Submit-peer-reviewed-assignments?language=en_US)
+
+- [Submit feedback and grades for peer reviewed assignments](https://www.coursera.support/s/article/208279946-Getting-and-viewing-grades-for-peer-reviewed-assignments?language=en_US)
