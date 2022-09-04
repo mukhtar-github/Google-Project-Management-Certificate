@@ -1721,7 +1721,7 @@ Link to exemplar: [SMART goals](https://docs.google.com/document/d/1jkYyqKMh5Whr
 
 **Assessment of Exemplar**
 
-Compare the exemplar to your completed SMART goals activity. Review your work using each of the criteria in the exemplar. What did you do well? Where can you improve? Use your answers to these questions to guide you as you continue to progress through the course. 
+Compare the exemplar to your completed SMART goals activity. Review your work using each of the criteria in the exemplar. What did you do well? Where can you improve? Use your answers to these questions to guide you as you continue to progress through the course.
 
 **Note:** Your SMART goals may differ from the exemplar in some ways. That’s okay—what’s important is that your goals meet as many of the SMART criteria as possible.
 
@@ -1749,13 +1749,12 @@ The original goal indicates that Office Green will raise their customer retentio
 
 “Office Green will raise their overall customer retention rate by 10% by the end of the year by implementing a new Operations & Training plan for the Plant Pals service.”
 
-- **Specific:** Office Green will implement an Operations & Training plan that will improve on existing customer service standards and boost efficiency. 
+- **Specific:** Office Green will implement an Operations & Training plan that will improve on existing customer service standards and boost efficiency.
 
-- **Measurable:** The goal includes a metric of a 10% increase in retention. 
+- **Measurable:** The goal includes a metric of a 10% increase in retention.
 
 - **Attainable:** They have a year to reach this goal and many former and existing customers are interested in the new service. It has the potential to help them keep customers who may be thinking about leaving for a landscaper with more services.
 
 - **Relevant:** Increasing customer retention can lead to more sales, which supports the overall project goal of a 5% revenue increase.
 
 - **Time-bound:** The deadline is at the end of the year.
-
