@@ -1795,7 +1795,7 @@ As a project manager, OKRs can help you expand upon project goals and further cl
 
 Project objectives should be aspirational, aligned with organizational goals, action-oriented, concrete, and significant. Consider the vision you and your stakeholders have for your project and determine what you want the project team to accomplish in 3–6 months.
 
-- _Examples:_
+_Examples:_
 
 - Build the most secure data security software
 
@@ -1835,7 +1835,7 @@ To help shape each objective, ask yourself and your team:
 
 Next, add 2–3 key results for each objective. Key results should be time-bound. They can be used to indicate the amount of progress to achieve within a shorter period or to define whether you’ve met your objective at the end of the project. They should also challenge you and your team to stretch yourselves to achieve more.
 
-- _Examples:_
+_Examples:_
 
 - X% new signups within first quarter post launch
 
