@@ -2088,3 +2088,31 @@ While you can't control everything that happens, there are some useful tips to k
 And finally, be sure to get these agreements in writing. This way, you'll always have documentation to point if you, a stakeholder, or the customer have a disagreement down the line. One of the leading causes of external scope creep is not being clear on the requirements before defining the scope and getting formal approval to move forward with the project. This is where those specific and measurable goals and deliverables come into play. If the requirements aren't specific and if you haven't agreed on the project's processes, deliverables, and milestones, then you're almost guaranteed to be dealing with scope creep once the project begins. Internal sources of scope creep are trickier to spot and harder to control. This kind of creep comes from members of the project team who suggest or even insist on process or product changes or improvements. It's possible that a product developer will justify a decision on the grounds of making the product better, even though it's going to cost more, or a team lead might decide that a certain process is more efficient without realizing the impact the change in process will have on other team members tasked with different parts of the project.
 
 What you need to make clear to your team is that any change outside of the project scope comes off the bottom line, threatens the schedule, and increases risk. There are no small impacts to project scope. Any time a team member takes on an unplanned task, more is lost than just the time spent working on that task. It's your responsibility as the project manager to maintain the limits of the project. The best defense is to know the details of your project in and out so you're always prepared with the most appropriate response to a new idea or request. Let's recap. Monitor your project's scope and protect it at all costs. Even the most minor change can mean major risk to your project's success. Coming up, I'll tell you about the triple constraint model and how you can use it to help determine how your project changes affect scope.
+
+### Strategies for controlling scope creep
+
+In this lesson, we have discussed the importance of defining and documenting a project’s scope and how to identify scope creep factors that can affect reaching a project’s goal. In this reading, we will focus on how to control scope creep.
+
+**Scope management best practices**
+
+The scope of a project can get out of control quickly—so quickly that you may not even notice it. Scope creep is when a project’s work starts to grow beyond what was originally agreed upon during the initiation phase. Scope creep can put stress on you, your team, and your organization, and it can put your project at risk. The effects of scope creep can hinder every aspect of the project, from the schedule to the budget to the resources, and ultimately, its overall success. 
+
+Here are some best practices for scope management and controlling scope creep:
+
+- **Define your project’s requirements.** Communicate with your stakeholders or customers to find out exactly what they want from the project and document those requirements during the initiation phase.
+
+- **Set a clear project schedule.** Time and task management are essential for sticking to your project’s scope. Your schedule should outline all of your project’s requirements and the tasks that are necessary to achieve them.
+
+- **Determine what is out of scope.** Make sure your stakeholders, customers, and project team understand when proposed changes are out of scope. Come to a clear agreement about the potential impacts to the project and document your agreement.
+
+- **Provide alternatives.** Suggest alternative solutions to your customer or stakeholder. You can also help them consider how their proposed changes might create additional risks. Perform a cost-benefit analysis, if necessary.
+
+- **Set up a change control process.** During the course of your project, some changes are inevitable. Determine the process for how each change will be defined, reviewed, and approved (or rejected) before you add it to your project plan. Make sure your project team is aware of this process.
+
+- **Learn how to say no.** Sometimes you will have to say no to proposed changes. Saying no to a key stakeholder or customer can be uncomfortable, but it can be necessary to protect your project’s scope and its overall quality. If you are asked to take on additional tasks, explain how they will interfere with the budget, timeline, and/or resources defined in your initial project requirements.
+
+- **Collect costs for out-of-scope work.** If out-of-scope work is required, be sure to document all costs incurred. That includes costs for work indirectly impacted by the increased scope. Be sure to indicate what the charges are for.
+
+**Key takeaway**
+
+You can only avoid scope creep if everyone involved in the project understands and agrees on responsibilities, boundaries, and timelines. Avoiding scope creep also requires clear communication, expectation management, and a well-defined path to your desired outcome. Following the strategies discussed here can help you proactively manage scope creep before it creeps into your project!
