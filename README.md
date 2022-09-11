@@ -2056,3 +2056,21 @@ You need to clearly define these so that you can make sure you're working within
 We've covered a number of different ways to help you determine scope. Here are a few more helpful questions to add to the list. Where did the project come from? Why is it needed? What is the project expected to achieve? What does the project sponsor have in mind? Who approves the final results? Now you'll really be set. As for timing, defining project scope should happen during the initial planning stage. You want to start figuring out the scope early on so that everyone can agree to the same set of expectations. It will help mitigate the risks of big changes down the line. Although you can always adjust the scope as planning continues, if you need to. Once you understand your project scope, you want to document all the details so that anyone can refer back to it throughout the life cycle of the project. We'll talk about some best practices for that at the end of this module.
 
 Let's recap: a clearly defined scope describes all the details of a project and regulates what can be added or removed as it progresses. While it's ultimately the project manager's responsibility to monitor the project and make sure all the work and resources fall within its scope, team members and stakeholders can be encouraged to do their part by focusing on the task that are the most important to reaching the project's goal. The next video talks about the concepts of "in-scope" and "out-of-scope" and the phenomenon called "scope creep." All three will help with ensuring your project stays on track and within budget.
+
+### Gathering information to define scope
+
+In this lesson, you are learning to define project scope status and differentiate in-scope, out-of-scope, and scope creep factors that affect reaching the project goal. Let’s focus here on how to identify vital elements of a project’s scope and examine the right questions to ask in order to define it.
+
+**Asking scope-defining questions**
+
+Imagine that while working in a restaurant management group, your manager calls and asks you to “update the dining space,” then quickly hangs up the phone without providing further instruction. In this initial handoff from the manager, you are missing a lot of information. How do you even know what to ask?
+
+Let’s quickly recap the concept of scope. The scope provides the boundaries for your project. You define the scope to help identify necessary resources, resource costs, and a schedule for the project. 
+
+In the situation we just described, here are some questions you might ask your manager in order to get the information you need to define the scope of the project:
+
+![mN749RQOSWie-PUUDhloDg_12b56746f80a4790b7b6857b5242e8f1_Scope-questions](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/mN749RQOSWie-PUUDhloDg_12b56746f80a4790b7b6857b5242e8f1_Scope-questions.jpg?expiry=1663027200000&hmac=9H9xMU1cnxlmCNumFqu1kjXxopFV2QacToyvPXaQ5tk)
+
+**Key takeaway**
+
+Taking the time to ask questions and ensure that you understand the scope of the project will help reduce expenses, rework, frustration, and confusion. Make sure you understand the who, what, when, where, why, and how as it applies to the scope. If you are missing any of that information, focus your questions on those elements. The initiation phase of the project sets the foundation for the project, so ensuring that you understand the scope and expectations during this stage is essential.
