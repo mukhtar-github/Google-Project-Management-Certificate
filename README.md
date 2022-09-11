@@ -2019,7 +2019,7 @@ Here is a completed exemplar along with an explanation of how the exemplar fulfi
 
 Click the link to create a copy of the exemplar. If you don’t have a Google account, download the exemplar directly from the attachment below.
 
-Link to exemplar: [Activity Exemplar: Project OKRs](https://docs.google.com/document/d/1Ap5bR3jNVYVuwAqVGcPjTIu7yFe5id-cOBD62sYib2c/template/preview)
+Link to exemplar: [Activity Exemplar: Project OKRs](https://docs.google.com/document/d/1alp9qY_-nIZ2f9zCRMZ5TMytQyttsxh8bo4YjNFjaMw/edit#heading=h.np209ztjhxac)
 
 **Assessment of Exemplar**
 
