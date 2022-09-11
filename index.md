@@ -1937,6 +1937,10 @@ To use the template for this course item, click the link below and select “Use
 
 Link to template: [Project Move It OKRs](https://docs.google.com/document/d/1h6XBR05Okqaf8TpoUqdQA5ZttLtXL2el8h-tbdf5mSw/template/preview?resourcekey=0-FAJAWmvrLxVdAhaxOuezJg)
 
+Link to blank copy of the OKR template: [Project Move It OKRs](https://docs.google.com/document/d/1VzQwD2_0cLCYy0JPFXs7O6t1A7UljbBWVgon1uNVeB0/edit)
+
+Link to my completed activity: [Project Move It OKRs](https://docs.google.com/document/d/104UmQvdRJySvXogMu1YSyJyvRZo18eCwlH3FBn7CqwM/edit?resourcekey=0-1l6z7zRjti6dNtMO-TChIQ)
+
 **Step 2: Draft your first objective**
 
 A list of objectives for Project Move It have been provided for you below. Select one and add it next to “O1” on the first line of the OKR card.
