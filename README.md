@@ -2139,4 +2139,11 @@ Scope creep is when the scope changes after you've already started the project. 
 
 Because if you think about it, changing the audience would make the project goals and our strategies for reaching those audiences drastically different. So ultimately, we ended up keeping the scope and communicating that to our stakeholders. Some best practices for managing scope is just make sure you document everything in the beginning and share it with all of your stakeholders and team members, and make sure everybody's in agreement on that scope. There are times where the scope may need to change, and that's okay. But you have to be able to make sure that you can also change and potentially change your timeline, your resources, or even the budget to accommodate that scope change.
 
+### Optional: Reviewing the Triple Constraint
+
+![GOEdQk1-T6ehHUJNfo-n-A_0cfb775c91ec44c39b72066d3de29bf1_triple-constraint](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/GOEdQk1-T6ehHUJNfo-n-A_0cfb775c91ec44c39b72066d3de29bf1_triple-constraint.png?expiry=1663027200000&hmac=PY4wcTnd7xOZSLvNmV86q0l_QTiMoIi2K4yaOcMiJQ4)
+
+As you’ve just learned, project managers may refer to the **triple constraint model** to manage scope and control scope creep. It can serve as a valuable tool to help you negotiate priorities and consider trade-offs.
+
+For further reading on utilizing the triple constraint model in real-life scenarios as a project manager and how the triple constraint model has evolved over time, we recommend checking out this article: [A Project Management Triple Constraint Example & Guide.](https://thedigitalprojectmanager.com/triple-constraint/)
 
