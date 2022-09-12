@@ -2145,7 +2145,7 @@ As you’ve just learned, project managers may refer to the **triple constraint 
 
 For further reading on utilizing the triple constraint model in real-life scenarios as a project manager and how the triple constraint model has evolved over time, we recommend checking out this article: [A Project Management Triple Constraint Example & Guide.](https://thedigitalprojectmanager.com/triple-constraint/)
 
-## Measuring a project's success
+## Measuring a Project's Success
 
 ### Launching and landing a project
 
