@@ -2247,7 +2247,8 @@ Understanding where we are and where we are going helps the project team determi
 
 Remember, all projects encounter change. All parties must have continuous access and alignment to the success criteria agreed upon to avoid scope creep (uncontrolled change of the project’s scope) or failed expectations at the end of the project. It’s important to document success criteria upfront and continue to report on it throughout the project. You can [make a copy of this document](https://docs.google.com/document/d/1E3OwXHMb25DpWHeJXzff9wqjuJSO6KH9aijNUAIUNpQ/template/preview?resourcekey=0-vgOO8PhLm_19ztOHb4eLJw) to help you get alignment or download it here:
 
-[Check out the attached article about how to manage the expectations of stakeholders when defining success criteria.](https://d3c33hcgiwev3.cloudfront.net/tZL2CKGDTGmS9gihg9xpFw_6243c50ecb7a476eb772e17540d4f6ef_Same-Project-Different-Perspectives-PMI.pdf?Expires=1663286400&Signature=LQ9winsc2HzWvumaLfg4RQlXETIUq5gUuLruXS5dvTP94XP06wNDPEr03HC9zldf9ht-XDEiguCVjtMumavKDgpZmRBDYi59Jac~hOZFajdpyxSLDaLNOF9Kpf2XJ2ECEWH5O9pVEghNGee~P6r9uRVwPxILZUDi~mMRnyj2B2o_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+Check out the attached article about how to manage the expectations of stakeholders when defining success criteria.
+[Same-Project-Different-Perspectives-PMI.pdf](https://d3c33hcgiwev3.cloudfront.net/tZL2CKGDTGmS9gihg9xpFw_6243c50ecb7a476eb772e17540d4f6ef_Same-Project-Different-Perspectives-PMI.pdf?Expires=1663286400&Signature=LQ9winsc2HzWvumaLfg4RQlXETIUq5gUuLruXS5dvTP94XP06wNDPEr03HC9zldf9ht-XDEiguCVjtMumavKDgpZmRBDYi59Jac~hOZFajdpyxSLDaLNOF9Kpf2XJ2ECEWH5O9pVEghNGee~P6r9uRVwPxILZUDi~mMRnyj2B2o_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
 
 
 
