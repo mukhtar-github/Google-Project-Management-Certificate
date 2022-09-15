@@ -2262,6 +2262,8 @@ You have learned that OKRs—Objectives and Key Results--combine a goal and a me
 
 ![jWmtk9_MT8KprZPfzG_CCA_26e936656ba24f7a96b5de34e4f8ccfa_C2M2L3R3](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/jWmtk9_MT8KprZPfzG_CCA_26e936656ba24f7a96b5de34e4f8ccfa_C2M2L3R3.png?expiry=1663372800000&hmac=6vnTPs1h1lkCPjJCmoYcZFxldPzHuvBBuYRAg3Tohhs)
 
+![UIeFZ5w6RiuHhWecOuYrCA_d03717fb11444bf581b815d21e2b45f1_OKRs](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/UIeFZ5w6RiuHhWecOuYrCA_d03717fb11444bf581b815d21e2b45f1_OKRs.png?expiry=1663372800000&hmac=aV0nvg8KFkyWzOQXyMrHBvV5rBRo3VrSZt21xGmCs-o)
+
 **Communicating and tracking OKRs**
 
 Conducting regular check-ins and actively tracking progress with your team can help ensure that objectives are being met and that any issues are resolved as soon as possible.
