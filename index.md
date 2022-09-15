@@ -2293,7 +2293,6 @@ To help you get started practicing writing your own OKRs, check out the template
 - [OKR Scorecard Template Doc](https://docs.google.com/document/d/1sLyiU71HEUpAp6YrwC-JHanhVbiFlwN8RRop9lSDVyA/template/preview?resourcekey=0-heMO9l_aBbAYg_-SRAA9_Q)
 
 - [OKR Scorecard Template Sheet](https://docs.google.com/spreadsheets/d/1S8nUtc2jfmoXEWoooTIcRBWN3DFvmqqYJABp659Rh-8/template/preview)
-- 
 
 
 
