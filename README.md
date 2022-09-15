@@ -2297,3 +2297,9 @@ To help you get started practicing writing your own OKRs, check out the template
 - [OKR Scorecard Template Doc](https://docs.google.com/document/d/1sLyiU71HEUpAp6YrwC-JHanhVbiFlwN8RRop9lSDVyA/template/preview?resourcekey=0-heMO9l_aBbAYg_-SRAA9_Q)
 
 - [OKR Scorecard Template Sheet](https://docs.google.com/spreadsheets/d/1S8nUtc2jfmoXEWoooTIcRBWN3DFvmqqYJABp659Rh-8/template/preview)
+
+### Wrap-up
+
+You're doing great! You've completed this module and have set yourself up for success. Way to go! Defining goals and managing scope and ensuring a successful landing might seem tricky to master at first, but the SMART method and the triple constraint triangle, tools, and methods for measuring success criteria and clear communication will help you every step of the way.
+
+In the next module, we will talk about the roles and responsibilities that come along with each project so that everyone knows how they contribute to reaching the project's goals.
