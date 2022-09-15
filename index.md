@@ -2254,7 +2254,7 @@ Check out the attached article about how to manage the expectations of stakehold
 
 In this lesson, you are learning to define a project’s **success criteria,** the measurable attributes project managers use to determine whether or not a project was successful as a whole. This reading will focus on using **OKRs** to evaluate a project’s progress.
 
-### Objectives and Key Results (OKRs)
+**Objectives and Key Results (OKRs)**
 
 You have learned that OKRs—Objectives and Key Results--combine a goal and a metric to determine a measurable outcome. Setting OKRs is a technique that can help project teams define, communicate, and measure shared success criteria.
 
