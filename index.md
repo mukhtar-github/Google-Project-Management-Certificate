@@ -2480,7 +2480,7 @@ A **power grid** shows stakeholder interest in the project versus their influenc
 
 Take the time at the start of the project to establish your stakeholder approach. List the stakeholders and then place them into the appropriate places on the grid. Being able to visualize their placement will help you manage communications and expectations. Having a quick reference tool to drive your communication actions will also allow you to have the ability to spend more time doing other tasks on your project.
 
-Pro tip: While these tools help organize information, they do not necessarily make the difference between successful and unsuccessful stakeholder engagement. What will make for successful stakeholder engagement is the project manager’s ability to know their stakeholders’ motivations and inspirations. This takes time, interpersonal skills, and insight into the organization’s internal political workings. Remember, each project is different, and your project may need tweaks along the way as you grow as a project manager. Making necessary changes means you are doing something right. Just make sure to check in and ensure that you are well on track, engaging your stakeholders successfully, and delivering on your project!
+**Pro tip:** While these tools help organize information, they do not necessarily make the difference between successful and unsuccessful stakeholder engagement. What will make for successful stakeholder engagement is the project manager’s ability to know their stakeholders’ motivations and inspirations. This takes time, interpersonal skills, and insight into the organization’s internal political workings. Remember, each project is different, and your project may need tweaks along the way as you grow as a project manager. Making necessary changes means you are doing something right. Just make sure to check in and ensure that you are well on track, engaging your stakeholders successfully, and delivering on your project!
 
 **Generating stakeholder buy-in**
 
@@ -2502,7 +2502,29 @@ Manage your stakeholders’ expectations by presenting a realistic view of your 
 
 This article, titled [Roll Call: We Asked the Project Management Community: What Steps Do You Take To Identify and Prioritize All Stakeholders at the Start of a Project?](https://www.pmi.org/learning/library/identify-prioritize-stakeholders-11408), describes additional strategies for identifying stakeholders to further increase your understanding.
 
+**Suggested questions for stakeholders**
 
+- What are your most important priorities/goals?
+
+- How will this initiative/project support you and your most important priorities?
+
+- What role would you like to play within this initiative/project?
+
+- Here’s how I plan to keep people informed; does that work for you?
+
+- What can I clarify for you?
+
+- What are your expectations? What would you like for the project to accomplish?
+
+- What would success look like for you?
+
+- Who else do you recommend I reach out to about this initiative?
+
+- What information or insights do you have that might be challenging for me to find?
+
+- Where do you see me getting support for this initiative? Facing resistance?
+
+- What additional thoughts/questions do you have?
 
 
 
