@@ -2672,7 +2672,7 @@ Let’s review the stakeholder analysis table:
 
 Let’s review the power grid:
 
-As the project sponsor, the **Director of Product** has a **high** level of influence on the project. They are invested in the project’s success, but not involved on a day-to-day basis, so their interest is **medium**. You should communicate with them regularly, but not daily, to ensure they are satisfied with project progress.
+- As the project sponsor, the **Director of Product** has a **high** level of influence on the project. They are invested in the project’s success, but not involved on a day-to-day basis, so their interest is **medium**. You should communicate with them regularly, but not daily, to ensure they are satisfied with project progress.
 
 - The **Landscape Designer/Web Designer** has a **high** level of both influence and interest, which means you should manage them closely. You should communicate with them daily to discuss project tasks and to ensure you have their buy-in. If you have them on your side, they can help you manage relationships with other Office Green employees.
 
