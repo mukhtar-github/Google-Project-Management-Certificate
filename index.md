@@ -2804,7 +2804,7 @@ As a reminder, RACI charts help you determine who is:
 
 - **C**onsulted
 
--**I**nformed
+- **I**nformed
 
 Be sure to complete this activity before moving on. The next course item will provide you with a completed exemplar to compare to your own work. You will not be able to access the exemplar until you have completed this activity.
 
