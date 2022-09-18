@@ -3239,3 +3239,11 @@ For additional reading on lessons that can be learned from projects that have fa
 Kudos! You finished another module. That was a fun one! We covered a lot of topics that were likely new to you. So let's recap. In our first video, we checked out each individual role associated with projects. You learned that as a project manager, you'll have to ask yourself key questions to make sure you build a successful team. You have to consider things like team size, necessary skills, availability, and motivation. Then you completed a stakeholder analysis. This helps you understand how you might manage communication with each person on the project.
 
 Next came the RACI chart, which defined rules and responsibilities for individuals or teams. This helps people get work done efficiently, and it creates clear lanes and instruction for each team member to operate within. It does this by assigning which roles are responsible, accountable, informed, and consulted. Overall, you learned some really useful concrete tools to help you stay organized throughout the project. You can use these charts as you work with your stakeholders. And if your project is ever-evolving, as some are, stakeholder mapping and RACI charting will help you stay on top of the tasks and communicate effectively. In the next module, you'll learn about other useful resources for managing projects and discover how to know which tool to use when. See you soon.
+
+## WEEK 4 - Module 2
+
+## Understanding project resource needs
+
+### Introduction: Utilizing resources and tools for project success
+
+Welcome back, and congrats on completing that graded assessment. In the previous module, you learned all about project roles and responsibilities, and we introduced you to some tools that you can use to ensure team accountability, like stakeholder analyses and RACI charts. Coming up, we'll talk about project tools and resources, and the value of documentation. By the end of this module, you'll understand the types of resources available to a project manager, you'll be able to document information in a formal project charter, and you'll be able to compare and use various project management tools. Ready to get started? Meet me in the next video.
