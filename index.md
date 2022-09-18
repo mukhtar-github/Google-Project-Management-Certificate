@@ -3064,7 +3064,7 @@ Update the **Role** headers with each team member role from the scenario. Replac
 
 **Step 4: Assign letters in the RACI chart**
 
-For each task, assign the letters R, A, C, and I to the team members involved. Consult the descriptions below to determine how your team members relate to the tasks:
+For each task, assign the letters **R,** **A,** **C,** and **I** to the team members involved. Consult the descriptions below to determine how your team members relate to the tasks:
 
 **Responsible:** Who is responsible for completing this task? Consider these questions when determining who is responsible:
 
