@@ -2963,3 +2963,9 @@ In the exemplar for the Plant Pals service, each role has a RACI designation for
 - The Director of Product is **consulted** on questions about customer needs, while the Marketing Manager is **consulted** about the marketing plan.
 
 - All other team members can be kept **informed** about customer outreach.
+
+### Certificate completers: Staying motivated in the program
+
+If something is stumping you or you feel stuck at a certain aspect, there's always someone else who's going through the same thing. Anytime I started to feel overwhelmed by information or like I just wasn't getting it. I wasted so much time being unsure of myself that I should have just listened to my friends and family when they said just do it, you can do it. One of the greatest things that help me to get back motivated is the accessibility of the course on my phone.
+
+I was just able to go into the app and listen to a few videos, because I can learn a lot on the go. Having a network of people that motivates you—it's so fundamental. Even if it's a friend or if it's a family member that you can get from the beginning, and he can be there for you on your corner like a coach. And don't be afraid to ask for help, whether it be from your peers, from your coaches, friends, family. There's always someone who knows more, and you can learn from them.
