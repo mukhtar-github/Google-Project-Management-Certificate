@@ -3098,4 +3098,18 @@ _**Note:** The number of stakeholders you keep informed about each task can vary
 
 Finally, be sure to save a blank copy of the RACI chart template you used to complete this activity. You can use it for further practice or in your own personal or professional projects. Templates like this one will be useful as you put together a portfolio of project management artifacts. You can use them to talk through your thought processes as you demonstrate your experience to potential employers.
 
+**What to Include in Your Response**
+
+Be sure to address the following elements in your completed RACI chart: 
+
+- The RACI chart includes all of the project roles.
+
+- The RACI chart includes all the tasks. 
+
+- The appropriate individuals are listed as **Responsible, Accountable, Consulted, and Informed.**
+
+- Only one individual is accountable for each deliverable/task.
+
+- At least one individual is responsible for each task. (Note that some tasks may not need Consulted or Informed individuals.)
+
 
