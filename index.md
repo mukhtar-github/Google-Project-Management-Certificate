@@ -3430,7 +3430,11 @@ Review the information provided, and then select the section of the project char
 
 8.
 
-- a. Design slip-proof shoelace weave. b. Manufacture 12,000 pairs of athletic shoelaces. c. Increase brand awareness in the running community.
+- Design slip-proof shoelace weave.
+
+- Manufacture 12,000 pairs of athletic shoelaces.
+
+- Increase brand awareness in the running community.
 
 - Answer: Deliverables - include expected outcomes—both tangible and intangible.
 
@@ -3438,11 +3442,11 @@ Review the information provided, and then select the section of the project char
 
 - **Project sponsor:** Director of merchandise.
 
-**Project lead:** Project manager (you).
+- **Project lead:** Project manager (you).
 
-**Project team:** Shoelace designer, prototyper, quality assurance tester.
+- **Project team:** Shoelace designer, prototyper, quality assurance tester.
 
-**Additional stakeholders:** Director of market research, marketing manager, sales manager, director of online sales.
+- **Additional stakeholders:** Director of market research, marketing manager, sales manager, director of online sales.
 
 - Answer: The Project Team - lists the various people who will participate in the project.
 
