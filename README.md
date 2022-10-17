@@ -2135,7 +2135,7 @@ Are you getting the hang of trade-offs? Keeping in mind scope, time, and cost as
 
 Hi, I'm Torie, and I'm an education program manager at Google. Specifically, I work on our digital literacy curriculum, called Applied Digital Skills, that helps learners of all ages learn the practical digital skills needed for the jobs of today and tomorrow. So scope is important because if you have a well-defined scope at the beginning of a project, it'll help make sure that your team members, your stakeholders are all aligned and on the same page right from the start, and you can avoid any issues down the line that may come up that you might not have been aware of. Some challenges of staying within scope could be what we like to call "scope creep," and these things can happen if, for example, you have some stakeholders that have some certain needs, desires, or requests that may actually end up changing the scope.
 
-Scope creep is when the scope changes after you've already started the project. And this can be really challenging to manage if you don't keep an eye on it from the beginning. I was recently working on a project where we were hoping to actually reach underserved communities with our digital literacy curriculum, and the initial project scope started off focusing on middle and high school students. But at some point down the line after the project started, there were some stakeholders who actually wanted to expand the audience to adult learners. And so we had some trouble trying to figure out how we were going to manage that. Were we going to change the scope? Were we going to keep it the same? And ultimately, we decided to keep the scope the same and referenced back to our original goal in the beginning.
+Scope creep is when the scope changes after you've already started the project. And this can be really challenging to manage if you don't keep an eye on it from the beginning. I was recently working on a project where we were hoping to actually reach under served communities with our digital literacy curriculum, and the initial project scope started off focusing on middle and high school students. But at some point down the line after the project started, there were some stakeholders who actually wanted to expand the audience to adult learners. And so we had some trouble trying to figure out how we were going to manage that. Were we going to change the scope? Were we going to keep it the same? And ultimately, we decided to keep the scope the same and referenced back to our original goal in the beginning.
 
 Because if you think about it, changing the audience would make the project goals and our strategies for reaching those audiences drastically different. So ultimately, we ended up keeping the scope and communicating that to our stakeholders. Some best practices for managing scope is just make sure you document everything in the beginning and share it with all of your stakeholders and team members, and make sure everybody's in agreement on that scope. There are times where the scope may need to change, and that's okay. But you have to be able to make sure that you can also change and potentially change your timeline, your resources, or even the budget to accommodate that scope change.
 
@@ -3369,3 +3369,81 @@ Fantastic, let's keep going. Next, we're going to add in the project scope as we
 Great, now let's add in your project team. Let's see here. The project sponsor is Office Green's director of product. So let's add that in. Who is the project lead? Well, that's you. The project team may include marketing associates, website developers and external plant vendors and more, so we can add in a few important project team members here. Awesome. Let's move on to additional stakeholders. Additional stakeholders may include the vice president of customer success, who is accountable for customer feedback and corresponding product requests. We can also add in the account manager who will leverage their existing relationships with top clients. And let's also add in the fulfillment manager, who will help acquire the plants needed to launch the service.
 
 We're almost done, let's add in how we'll measure success. Here we will type in that we want to see a five percent increase in revenue by the end of the year. Let's also type in that we want to hit a customer satisfaction rate of 95 percent, three months after launch. That's it. The project charter is filled in and now it's ready to be reviewed by your stakeholders. Now you're done. You've seen how documentation helps form the roots of a project and how it contributes to the project's ultimate success. Like nurturing a plant, you're learning to nurture a project to ensure its the best it can be. Up next, we'll talk about the tools that project managers rely on to guide their teams and ensure that they complete their tasks. See you soon.
+
+### Creating a project charter
+
+**Identify components of a project charter**
+
+As project manager for a shoelace company, you’re creating a charter for the development of a new product line. Complete the charter by identifying what information belongs in each section.
+
+**What’s the right section of the charter?**
+
+Review the information provided, and then select the section of the project charter where it belongs.
+
+1.
+
+- In-scope: Product development, prototyping, manufacturing, marketing
+
+- Out-of-scope: Vendor contracts, delivery to customers
+
+- Answer: Scope and Exclusion - defines activities that are part of the project—and those that are not.
+
+2.
+
+- Customer research reveals this as an untapped opportunity in the market, with the potential to win loyalty among a demographic obsessed with finding the best gear.
+
+- Answer: The Business Case - explains the reason for the project and how it supports the company’s overall success.
+
+3.
+
+- Increase overall revenue by 3% by the end of fourth quarter by releasing our new athletic shoelaces.
+
+- Answer: Project Goals - should be SMART and well-defined.
+
+4.
+
+- Benefits: Add new product to our lace line, leading to 3% revenue increase, increased brand awareness and customer loyalty.
+
+- Costs: 1. Price of materials, design, and prototyping. 2. Adding laces to inventory software.
+
+- Budget needed: $525,000
+
+- Answer: Benefits and Costs - describe what the company hopes to get out of the project, as well as the money and resources it requires.
+
+5.
+
+- Our plan is to add a line of replacement laces that will stay tied during athletic activity.
+
+- Answer: The Executive Summary - outlines the project’s purpose and desired outcomes.
+
+6.
+
+- Gain 2,000 new social media followers from the running community prior to launch.
+
+- Answer: Project Goals should be SMART and well-defined.
+
+7.
+
+- 3% increase in revenue by the end of the fourth quarter.
+
+- 5% increase in new customers three months after product launch.
+
+- Answer: Measuring Success - lists the success criteria that help you determine when the project has reached its goal.
+
+8.
+
+- a. Design slip-proof shoelace weave. b. Manufacture 12,000 pairs of athletic shoelaces. c. Increase brand awareness in the running community.
+
+- Answer: Deliverables - include expected outcomes—both tangible and intangible.
+
+9.
+
+- **Project sponsor:** Director of merchandise.
+
+**Project lead:** Project manager (you).
+
+**Project team:** Shoelace designer, prototyper, quality assurance tester.
+
+**Additional stakeholders:** Director of market research, marketing manager, sales manager, director of online sales.
+
+- Answer: The Project Team - lists the various people who will participate in the project.
