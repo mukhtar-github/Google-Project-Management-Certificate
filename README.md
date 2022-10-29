@@ -3490,6 +3490,8 @@ To use the template for this course item, click the link below and select “Use
 
 Link to template: [Project charter](https://docs.google.com/document/d/1HtFRAk4GAIEUdBZvct_Jr9RuWyGS8IlmqNiR0kA19y0/template/preview)
 
+Link to Completed Charter: [Project charter](https://docs.google.com/document/d/17iYDLcaH2EykT3JMc3x_zt_R7dn-PJ9yzdA7q7yBNQE/edit?resourcekey=0-T_ramyjjyBUXBKFPZbbJAw)
+
 **Step 2: Write an executive summary**
 
 Under **Executive Summary**, write 1-3 sentences outlining the project’s purpose and desired outcomes.
