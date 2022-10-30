@@ -3770,7 +3770,7 @@ Finally, there are special project management tools, also called work management
 
 ### Build a project management tool tracker
 
-As you progress through this course, you will learn about different types of tools used by project managers and the organizations that hire them. Tools can include software applications like Adobe, Google, and Microsoft and specific work management tools like Jira and Asana. They can also include methodologies, techniques, formulas and concepts, and technologies related to project management. 
+As you progress through this course, you will learn about different types of tools used by project managers and the organizations that hire them. Tools can include software applications like Adobe, Google, and Microsoft and specific work management tools like Jira and Asana. They can also include methodologies, techniques, formulas and concepts, and technologies related to project management.
 
 This reading provides step-by-step instructions for creating a tracker for all of these types of tools. You can use your tracker to list the different tools you learn about, their descriptions and links, their features and benefits, and your level of experience with each. This way, you can easily identify the tools required for different roles and can determine where you might want to focus your professional development efforts.
 
@@ -3802,7 +3802,7 @@ Here are some example column headers:
 
 - Requirements (training/equipment)
 
-- Your current experience with the tool 
+- Your current experience with the tool
 
 - Notes
 
@@ -3849,3 +3849,53 @@ Then you learned to define project roles and responsibilities. Choosing the righ
 You also studied the final steps of the initiation phase: identifying resources, creating documentation, and selecting tools. You learned about the resources that project managers rely on to achieve the goals of a project, from budgets to people to the materials needed to complete a deliverable. You also learned the value of documenting your work using a project charter, which is a key step to getting approval to start your project.
 
 Lastly, you learned about the many types of tools that can help you be a more efficient project manager—from straightforward tools like email, to sophisticated tools like Asana. Completing this course is no small feat, and you've put in hours of work. Give yourself a pat on the back! You've earned it. In the next course, you'll jump right into the next phase of the project life cycle, and my colleague, Rowena, will be your guide. Get ready to have some fun as Rowena shows you the ropes of serious project planning!
+
+### Course 2 glossary
+
+We’ve covered a lot of terms—some of which you may have already known, and some of which are new. To make it easy to remember what a word means, we created this glossary of terms and definitions.
+
+To use the template for this course item, click the link below and select “Use Template.”
+
+Link to glossary: [Course 2 Glossary](https://docs.google.com/document/d/1NnRFDj6zKTWb4ZnCWlMt2lXh7wZoF9uj9RnJKP56s3A/template/preview)
+
+### Get started on Course 3
+
+To make continuing with the program easy, here is a link to [Course 3: Project Planning: Putting It All Together](https://www.coursera.org/learn/project-planning-google).
+
+![7eq6q0IOR9WquqtCDjfV9A_4a096221499d442599bada1a2962f427_course6overview_icons_3-1-](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/7eq6q0IOR9WquqtCDjfV9A_4a096221499d442599bada1a2962f427_course6overview_icons_3-1-.png?expiry=1667260800000&hmac=cdD3rK2kPkuSZKKWcRjsFrDwRlYCVfmNDyTsiJx4YGc)
+
+In this course you will learn all the steps for starting the planning phase of a project, including:
+
+- Setting and reaching milestones and identifying tasks
+
+- The budgeting process
+
+- Identifying and planning for risks
+
+- Key project documentation
+
+Keep up the great work!
+
+# Course 3: Project Planning: Putting It All Together
+
+## WEEK 1
+
+## Beginning the planning phase
+
+You will learn how the course is structured, the benefits of planning and key components of the planning phase, the difference between tasks and milestones, and how to set milestones.
+
+## Getting started with the course
+
+### Introduction to Course 3
+
+Hello! Welcome to this course called "Planning: Putting It All Together." If you've already completed our previous courses, then you have a great foundation for what it takes to initiate a project and kick off the planning phase. Before we get started, let me introduce myself. My name is Rowena, and I'll be your instructor for this course. I work as a senior program manager in Google Cloud on a variety of projects. I mostly focus on systems and productivity enhancements for my team, which consists of around 100 full time employees and more than 300 contractors around the world. Some of the largest-scale projects that I work on impact Google Cloud sales and global sales support teams, which are made up of a thousands of people.
+
+But I didn't start out building solutions for thousands of people at a global company. I left school at the age of 17 with no college degree and no real plan. Before Google, I worked in retail, hospitality, and even in the airline industry as a crew member. When I joined the corporate world, I noticed something. The processes were just as messy as the stock rooms of the retail stores where I'd worked. There was so much room to improve. I came to realize that every business is complicated and that there's always room to create order. So I started thinking about ways to automate my day-to-day tasks.
+
+I was emailing ideas to my manager and colleagues, working with teams across the company, brainstorming solutions to problems, coordinating training for my coworkers, and so much more. That's when it became clear— I was project managing. I transferred into a role focused entirely on program management at Google's headquarters in Mountain View, California. In my job interview, I focused on examples of how I applied these transferable skills from my previous roles, and how I could leverage the knowledge I gained from my experience. Four years later, I'm here and I'm so excited to be partnering with you on this learning journey.
+
+From the outside, big, global companies can seem as though they have it all figured out. But there's always room for new processes, and you likely have the skills and insights from your previous experiences that can be useful. So keep going— you're heading in the right direction. This course is focused on the planning phase. I'll share the tools and techniques to complete this phase. First up, I'll demonstrate how to kick off the planning phase. Then we'll explore the importance of setting and reaching milestones.
+
+For every milestone, there'll be a set of tasks to complete, so I'll teach you some tips for breaking down and distributing the workload. Later, we'll discuss the budget and how the overall budgeting process works. We'll learn about people or companies outside of your organization that may play a role in determining the budget, and we'll discuss the importance of sufficiently documenting your budget. Then we'll discuss the various risks and the possible impact those risks can have on the project. Nothing ever goes quite as planned, but risk management is a great way to make sure you know what could go wrong and how you'll address it.
+
+This includes communicating possible risks to your stakeholders, creating a mitigation plan, and then keeping an eye on those risks to make sure they don't stall your projects. Last but not least, documentation ties it all together. Keeping all your project plans documented and organized not only helps you, but it also helps those involved knowing their responsibilities. Documentation also provides stakeholders with a window into the development of the project. It has always been important to the success of my own projects at Google, and I'm excited to explore this topic with you.
