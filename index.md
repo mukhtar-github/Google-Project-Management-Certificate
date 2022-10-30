@@ -3848,3 +3848,29 @@ You also studied the final steps of the initiation phase: identifying resources,
 
 Lastly, you learned about the many types of tools that can help you be a more efficient project manager—from straightforward tools like email, to sophisticated tools like Asana. Completing this course is no small feat, and you've put in hours of work. Give yourself a pat on the back! You've earned it. In the next course, you'll jump right into the next phase of the project life cycle, and my colleague, Rowena, will be your guide. Get ready to have some fun as Rowena shows you the ropes of serious project planning!
 
+### Course 2 glossary
+
+We’ve covered a lot of terms—some of which you may have already known, and some of which are new. To make it easy to remember what a word means, we created this glossary of terms and definitions. 
+
+To use the template for this course item, click the link below and select “Use Template.”
+
+Link to glossary: [Course 2 Glossary](https://docs.google.com/document/d/1NnRFDj6zKTWb4ZnCWlMt2lXh7wZoF9uj9RnJKP56s3A/template/preview)
+
+### Get started on Course 3
+
+To make continuing with the program easy, here is a link to [Course 3: Project Planning: Putting It All Together](https://www.coursera.org/learn/project-planning-google).
+
+![7eq6q0IOR9WquqtCDjfV9A_4a096221499d442599bada1a2962f427_course6overview_icons_3-1-](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/7eq6q0IOR9WquqtCDjfV9A_4a096221499d442599bada1a2962f427_course6overview_icons_3-1-.png?expiry=1667260800000&hmac=cdD3rK2kPkuSZKKWcRjsFrDwRlYCVfmNDyTsiJx4YGc)
+
+In this course you will learn all the steps for starting the planning phase of a project, including:
+
+- Setting and reaching milestones and identifying tasks
+
+- The budgeting process
+
+- Identifying and planning for risks
+
+- Key project documentation
+
+Keep up the great work!
+
