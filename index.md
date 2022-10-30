@@ -3628,7 +3628,7 @@ When you share your Sheet, you can select from the following permissions:
 
 Once you’ve shared your Sheet with your team and given them either editing or commenting permissions, you can all collaborate directly in the Sheet by leaving comments. You can also assign a task or action item through comments.
 
-**Check out these resources from the Google Help Center to learn more:**[Share and collaborate on files](https://support.google.com/a/users/answer/9305987?hl=en)
+**Check out these resources from the Google Help Center to learn more:** [Share and collaborate on files](https://support.google.com/a/users/answer/9305987?hl=en)
 
 **Format your spreadsheet**
 
@@ -3656,7 +3656,7 @@ Grouping rows and columns allows you to expand and collapse larger categories of
 
 Checkboxes provide a quick and highly-visual way to track progress on a task or indicate whether certain criteria have been met.
 
-**_Check out these resources from the Google Help Center to learn more:_**[Add checkboxes to spreadsheets](https://support.google.com/a/users/answer/9308622?hl=en&ref_topic=9326428)
+**_Check out these resources from the Google Help Center to learn more:_** [Add checkboxes to spreadsheets](https://support.google.com/a/users/answer/9308622?hl=en&ref_topic=9326428)
 
 **Organize data**
 
@@ -3664,13 +3664,13 @@ Checkboxes provide a quick and highly-visual way to track progress on a task or 
 
 If you’re working with others on a shared Sheet, you might end up with inconsistent responses or descriptions of data. For example, one teammate may list their task as “done” while another notes it as “complete.” Adding a dropdown list (also referred to as **data validation**) ensures the data entered into your spreadsheet is exactly what you specify. It also makes it much faster for others to add data since they’re selecting from a predetermined list of options.
 
-**_Check out these resources from the Google Help Center to learn more:_**[Restrict data entry with lists](https://support.google.com/a/users/answer/9604139?hl=en#zippy=%2Clearn-how)
+**_Check out these resources from the Google Help Center to learn more:_** [Restrict data entry with lists](https://support.google.com/a/users/answer/9604139?hl=en#zippy=%2Clearn-how)
 
 **Add color coding**
 
 Sometimes it’s helpful to change the color of cells and text so you can quickly see how your project is progressing. You can add color coding to your spreadsheet by applying conditional formatting. **Conditional formatting** formats cells in a certain way if they contain specific information. For example, track progress status as “Not started” in red, “In progress” in orange, and “Complete” in green.
 
-**_Check out these resources from the Google Help Center to learn more:_**[See data changes with conditional formatting](https://support.google.com/a/users/answer/9308962?hl=en&ref_topic=9327402)
+**_Check out these resources from the Google Help Center to learn more:_** [See data changes with conditional formatting](https://support.google.com/a/users/answer/9308962?hl=en&ref_topic=9327402)
 
 **Sort and filter data**
 
@@ -3678,7 +3678,7 @@ Large sets of data can be difficult to manage. Sheets helps you sort and filter 
 
 **Sorting** data allows you to arrange data in exactly the order you want it to appear in, like alphabetical, by date, or progress level. **Filtering** limits what data gets displayed and shows you only the data you are interested in, such as tasks that have not yet been started, or budget items within a certain value range.
 
-**_Check out these resources from the Google Help Center to learn more:_**[Filter data in a spreadsheet](https://support.google.com/a/users/answer/9308952?hl=en)
+**_Check out these resources from the Google Help Center to learn more:_** [Filter data in a spreadsheet](https://support.google.com/a/users/answer/9308952?hl=en)
 
 **Add links**
 
@@ -3696,13 +3696,13 @@ It can be helpful to link to other project documentation or even external websit
 
 A **pivot table** is a basic data analysis tool. Pivot tables summarize your data and can help show the relationships between data points, making it easier to understand all the information contained in your spreadsheet. You’ll learn more about how to create and use a pivot table later in this course. Or, check out the Help Center article below.
 
-**_Check out these resources from the Google Help Center to learn more:_**[Create and edit pivot tables](https://support.google.com/a/users/answer/9308944?hl=en)
+**_Check out these resources from the Google Help Center to learn more:_** [Create and edit pivot tables](https://support.google.com/a/users/answer/9308944?hl=en)
 
 **Make a chart or graph**
 
 Presenting data in charts and graphs is a great way to quickly and effectively summarize important information about your project to stakeholders and make reports and presentations more engaging. Sheets enables you to automatically create different kinds of charts and graphs using the data in your spreadsheet.
 
-**_Check out these resources from the Google Help Center to learn more:_**[Insert and edit charts](https://support.google.com/a/users/answer/9308981?hl=en)
+**_Check out these resources from the Google Help Center to learn more:_** [Insert and edit charts](https://support.google.com/a/users/answer/9308981?hl=en)
 
 **Perform calculations**
 
@@ -3732,7 +3732,7 @@ Some of the more common templates are described and linked below. To use the tem
 
 - **[Event Marketing Timeline](https://docs.google.com/spreadsheets/d/10GindXMsW6z0pFvd5Ymjz_PS0dXJ5eCkl3KDKEPO9qY/template/preview#gid=541890420):** A timeline template is useful for creating a schedule, tracking events, and visualizing the tasks and milestones involved in a project. You might use this template to manage a project that involves a lot of marketing or public-facing tasks. You can track social media posts, market research, and coordinate content across multiple platforms.
 
-**_Check out these resources from the Google Help Center to learn more:_**[Create document templates](https://support.google.com/a/users/answer/9308885?hl=en)
+**_Check out these resources from the Google Help Center to learn more:_** [Create document templates](https://support.google.com/a/users/answer/9308885?hl=en)
 
 ### Demonstrating your knowledge of project management tools
 
