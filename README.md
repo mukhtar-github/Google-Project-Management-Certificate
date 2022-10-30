@@ -3618,19 +3618,19 @@ Keep in mind, however, that software options are constantly changing. From the a
 
 **Collaborate with your team**
 
-Google Sheets makes it easy to collaborate and share information. This is useful for remote workgroups or working with teams that have different schedules. 
+Google Sheets makes it easy to collaborate and share information. This is useful for remote workgroups or working with teams that have different schedules.
 
 When you share your Sheet, you can select from the following permissions:
 
 - **editing,** which allows others to make direct edits and changes to the file;
 
-- **commenting,** which allows others to add comments and make suggestions; or 
+- **commenting,** which allows others to add comments and make suggestions; or
 
 - **view only,** which allows others to view the file but not edit, comment, or suggest. This is a good choice if you don’t want any changes to be made to the file.
 
 Once you’ve shared your Sheet with your team and given them either editing or commenting permissions, you can all collaborate directly in the Sheet by leaving comments. You can also assign a task or action item through comments.
 
-**Check out these resources from the Google Help Center to learn more:**[Share and collaborate on files](https://support.google.com/a/users/answer/9305987?hl=en)
+**Check out these resources from the Google Help Center to learn more:** [Share and collaborate on files](https://support.google.com/a/users/answer/9305987?hl=en)
 
 **Format your spreadsheet**
 
@@ -3648,7 +3648,7 @@ Freezing the header row (or column for horizontal lists) and formatting headers 
 
 Grouping rows and columns allows you to expand and collapse larger categories of data or information with a single click. This makes your spreadsheet easier to read and manage by hiding the grouped data when it’s not needed, or quickly ungroup and show when it is needed.
 
-**_Check out these resources from the Google Help Center to learn more:_** 
+**_Check out these resources from the Google Help Center to learn more:_**
 
 - [Freeze or merge rows and columns; Group, ungroup, or hide rows or columns](https://support.google.com/docs/answer/9060449?hl=en&ref_topic=9055295)
 
@@ -3658,7 +3658,7 @@ Grouping rows and columns allows you to expand and collapse larger categories of
 
 Checkboxes provide a quick and highly-visual way to track progress on a task or indicate whether certain criteria have been met.
 
-**_Check out these resources from the Google Help Center to learn more:_**[Add checkboxes to spreadsheets](https://support.google.com/a/users/answer/9308622?hl=en&ref_topic=9326428)
+**_Check out these resources from the Google Help Center to learn more:_** [Add checkboxes to spreadsheets](https://support.google.com/a/users/answer/9308622?hl=en&ref_topic=9326428)
 
 **Organize data**
 
@@ -3666,13 +3666,13 @@ Checkboxes provide a quick and highly-visual way to track progress on a task or 
 
 If you’re working with others on a shared Sheet, you might end up with inconsistent responses or descriptions of data. For example, one teammate may list their task as “done” while another notes it as “complete.” Adding a dropdown list (also referred to as **data validation**) ensures the data entered into your spreadsheet is exactly what you specify. It also makes it much faster for others to add data since they’re selecting from a predetermined list of options.
 
-**_Check out these resources from the Google Help Center to learn more:_**[Restrict data entry with lists](https://support.google.com/a/users/answer/9604139?hl=en#zippy=%2Clearn-how)
+**_Check out these resources from the Google Help Center to learn more:_** [Restrict data entry with lists](https://support.google.com/a/users/answer/9604139?hl=en#zippy=%2Clearn-how)
 
 **Add color coding**
 
 Sometimes it’s helpful to change the color of cells and text so you can quickly see how your project is progressing. You can add color coding to your spreadsheet by applying conditional formatting. **Conditional formatting** formats cells in a certain way if they contain specific information. For example, track progress status as “Not started” in red, “In progress” in orange, and “Complete” in green.
 
-**_Check out these resources from the Google Help Center to learn more:_**[See data changes with conditional formatting](https://support.google.com/a/users/answer/9308962?hl=en&ref_topic=9327402)
+**_Check out these resources from the Google Help Center to learn more:_** [See data changes with conditional formatting](https://support.google.com/a/users/answer/9308962?hl=en&ref_topic=9327402)
 
 **Sort and filter data**
 
@@ -3680,7 +3680,7 @@ Large sets of data can be difficult to manage. Sheets helps you sort and filter 
 
 **Sorting** data allows you to arrange data in exactly the order you want it to appear in, like alphabetical, by date, or progress level. **Filtering** limits what data gets displayed and shows you only the data you are interested in, such as tasks that have not yet been started, or budget items within a certain value range.
 
-**_Check out these resources from the Google Help Center to learn more:_**[Filter data in a spreadsheet](https://support.google.com/a/users/answer/9308952?hl=en)
+**_Check out these resources from the Google Help Center to learn more:_** [Filter data in a spreadsheet](https://support.google.com/a/users/answer/9308952?hl=en)
 
 **Add links**
 
@@ -3698,13 +3698,13 @@ It can be helpful to link to other project documentation or even external websit
 
 A **pivot table** is a basic data analysis tool. Pivot tables summarize your data and can help show the relationships between data points, making it easier to understand all the information contained in your spreadsheet. You’ll learn more about how to create and use a pivot table later in this course. Or, check out the Help Center article below.
 
-**_Check out these resources from the Google Help Center to learn more:_**[Create and edit pivot tables](https://support.google.com/a/users/answer/9308944?hl=en)
+**_Check out these resources from the Google Help Center to learn more:_** [Create and edit pivot tables](https://support.google.com/a/users/answer/9308944?hl=en)
 
 **Make a chart or graph**
 
 Presenting data in charts and graphs is a great way to quickly and effectively summarize important information about your project to stakeholders and make reports and presentations more engaging. Sheets enables you to automatically create different kinds of charts and graphs using the data in your spreadsheet.
 
-**_Check out these resources from the Google Help Center to learn more:_**[Insert and edit charts](https://support.google.com/a/users/answer/9308981?hl=en)
+**_Check out these resources from the Google Help Center to learn more:_** [Insert and edit charts](https://support.google.com/a/users/answer/9308981?hl=en)
 
 **Perform calculations**
 
@@ -3742,13 +3742,13 @@ Some of the more common templates are described and linked below. To use the tem
 
 During an interview for a project manager position, the interviewer may ask you to discuss the project management tools you are familiar with or have used in the past. There are many types of project management tools that you will come across during your career. These tools will continue to grow and change as technology improves. Being able to talk about these tools, and how you use them, will be crucial to landing the role.
 
-In addition to the interviewer asking general questions about tools, they may ask more specific questions, like “How do you know if a project is off track?” It’s important to tie this answer back to the types of scheduling tools you have learned about in this course. If you haven’t had experience working with certain scheduling tools, like Smartsheet or digital spreadsheets—try to leverage real-life experience. 
+In addition to the interviewer asking general questions about tools, they may ask more specific questions, like “How do you know if a project is off track?” It’s important to tie this answer back to the types of scheduling tools you have learned about in this course. If you haven’t had experience working with certain scheduling tools, like Smartsheet or digital spreadsheets—try to leverage real-life experience.
 
-For example, have you ever planned for a move? If so, you can discuss how you planned your timeline and scheduled vendors so that you could meet your move date. Did you use a spreadsheet to keep track of your budget, schedule, and belongings? This experience demonstrates you understand how to use tools. It also demonstrates that you know the importance of creating, monitoring, and managing the project schedule to deliver results at project completion. 
+For example, have you ever planned for a move? If so, you can discuss how you planned your timeline and scheduled vendors so that you could meet your move date. Did you use a spreadsheet to keep track of your budget, schedule, and belongings? This experience demonstrates you understand how to use tools. It also demonstrates that you know the importance of creating, monitoring, and managing the project schedule to deliver results at project completion.
 
-Another related question the interviewer may ask could be, “How do you execute tasks within your timeline?” This is a great opportunity to demonstrate your ability to be productive by sharing your experience with tools, such as digital documents or spreadsheets. These tools help you create project artifacts, track tasks, and store project details in one place! You can also use them as a collaboration tool because they are easily shareable with teammates and stakeholders and allow for real-time updates. 
+Another related question the interviewer may ask could be, “How do you execute tasks within your timeline?” This is a great opportunity to demonstrate your ability to be productive by sharing your experience with tools, such as digital documents or spreadsheets. These tools help you create project artifacts, track tasks, and store project details in one place! You can also use them as a collaboration tool because they are easily shareable with teammates and stakeholders and allow for real-time updates.
 
-Finally, there are special project management tools, also called work management tools, that put all the benefits discussed above into one place. Project management tools such as Asana, Monday.com, Basecamp, and Trello are among some of the top ranked tools for managing projects.  These tools help you plan, track, and complete work across many project phases. They often have visually appealing layouts and automated features that save time and create efficiency in a project manager’s day-to-day tasks.  Explaining your knowledge of these tools—and how they benefit the project manager, team, and company—in an interview is a great way to demonstrate that you are qualified for the role.
+Finally, there are special project management tools, also called work management tools, that put all the benefits discussed above into one place. Project management tools such as Asana, Monday.com, Basecamp, and Trello are among some of the top ranked tools for managing projects. These tools help you plan, track, and complete work across many project phases. They often have visually appealing layouts and automated features that save time and create efficiency in a project manager’s day-to-day tasks. Explaining your knowledge of these tools—and how they benefit the project manager, team, and company—in an interview is a great way to demonstrate that you are qualified for the role.
 
 **Pro tip:** Learn more by trying free tutorials or trial versions of popular project management tools. By navigating project management software, you will be able to explain the uses and functionality of these types of tools firsthand. Here are some examples to get started:
 
@@ -3767,4 +3767,3 @@ Finally, there are special project management tools, also called work management
 - [Microsoft Project](https://www.microsoft.com/en-us/microsoft-365/project/project-management-software) or [Project Libre](https://www.projectlibre.com/) (open source)
 
 - [Smartsheet](https://www.smartsheet.com/) ([Demo](https://www.youtube.com/watch?v=quGpnXiCUms))
-
