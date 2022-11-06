@@ -4217,3 +4217,5 @@ Identify the tasks required to reach each milestone. Record three tasks for each
 For example, one task that will help you reach the “establish a delivery plan” milestone is “hire delivery drivers."
 
 **Note:** In a more detailed WBS, you would break these tasks down into additional subtasks. For example, the “hire delivery drivers” task might include subtasks like: “writing a job ad,” “interviewing drivers,” and “onboarding new hires.” For now, you can record the tasks as they are described in the scenario.
+
+Link to completed Activity: [WBS Brainstorm Diagram](https://docs.google.com/presentation/d/1beLgawtgfZQS0R267IKQ5IBh0qMKvbAVBZY2oSLI5kM/edit#slide=id.p1)
